@@ -1,0 +1,1165 @@
+make,model,mpg,transmission,gears,drive,disp,cyl,class,sidi,aspiration,fuel,atvType,startStop
+Toyota,Corolla,34.2793,CVT,10,FWD,2,4,Compact,Y,Natural,Regular,None,N
+Toyota,Corolla Hybrid,52,CVT,1,FWD,1.8,4,Compact,N,Natural,Regular,Hybrid,Y
+Toyota,Corolla,31.8162,Manual,6,FWD,2,4,Compact,Y,Natural,Regular,None,N
+Toyota,Corolla XSE,33.6766,CVT,10,FWD,2,4,Compact,Y,Natural,Regular,None,N
+Toyota,Corolla,33.0496,CVT,1,FWD,1.8,4,Compact,N,Natural,Regular,None,N
+Toyota,Corolla,33.1228,Manual,6,FWD,1.8,4,Compact,N,Natural,Regular,None,N
+Toyota,Corolla XLE,32.2043,CVT,1,FWD,1.8,4,Compact,N,Natural,Regular,None,N
+Kia,Soul,29.651,CVT,1,FWD,2,4,Sm St Wagon,N,Natural,Regular,None,N
+Kia,Soul Eco dynamics,31.3493,CVT,1,FWD,2,4,Sm St Wagon,N,Natural,Regular,None,N
+Kia,Soul,27.0504,Manual,6,FWD,2,4,Sm St Wagon,N,Natural,Regular,None,N
+Kia,Soul,28.8021,Manual,7,FWD,1.6,4,Sm St Wagon,Y,Turbo,Regular,None,N
+Kia,Sportage FWD,25.6059,Automatic,6,FWD,2.4,4,Sm SUV,Y,Natural,Regular,None,N
+Kia,Sportage FWD,22.9526,Automatic,6,FWD,2,4,Sm SUV,Y,Turbo,Regular,None,N
+Kia,Telluride FWD,22.5318,Automatic,8,FWD,3.8,6,Sm SUV,Y,Natural,Regular,None,N
+Kia,Sportage AWD,23.3388,Automatic,6,AWD,2.4,4,Sm SUV,Y,Natural,Regular,None,N
+Kia,Sportage AWD,21.3814,Automatic,6,AWD,2,4,Sm SUV,Y,Turbo,Regular,None,N
+Kia,Telluride AWD,20.8926,Automatic,8,AWD,3.8,6,Sm SUV,Y,Natural,Regular,None,N
+Mercedes-Benz,GLE350 4matic,22.0525,Automatic,9,4WD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Mercedes-Benz,GLE450 4matic,21.1292,Automatic,9,4WD,3,6,Std SUV,Y,Turbo,Premium,Hybrid,Y
+Jaguar,F-Type Coupe,25.6626,Automatic,8,RWD,2,4,Two Seater,Y,Turbo,Premium,None,Y
+Jaguar,F-Type Convertible,25.6626,Automatic,8,RWD,2,4,Two Seater,Y,Turbo,Premium,None,Y
+Jaguar,XE,28.4037,Automatic,8,RWD,2,4,Compact,Y,Turbo,Premium,None,Y
+Jaguar,XE 30t,26.6827,Automatic,8,RWD,2,4,Compact,Y,Turbo,Premium,None,Y
+Jaguar,XE AWD,27.6136,Automatic,8,AWD,2,4,Compact,Y,Turbo,Premium,None,Y
+Jaguar,XE AWD 30t,25.0846,Automatic,8,AWD,2,4,Compact,Y,Turbo,Premium,None,Y
+Jaguar,XF,28.4037,Automatic,8,RWD,2,4,Midsize,Y,Turbo,Premium,None,Y
+Jaguar,XF 30t,26.4949,Automatic,8,RWD,2,4,Midsize,Y,Turbo,Premium,None,Y
+Jaguar,XF AWD,26.6728,Automatic,8,AWD,2,4,Midsize,Y,Turbo,Premium,None,Y
+Jaguar,XF AWD 30t,25.463,Automatic,8,AWD,2,4,Midsize,Y,Turbo,Premium,None,Y
+Jaguar,XF Sportbrake AWD,24.0099,Automatic,8,AWD,2,4,Mid St Wagon,Y,Turbo,Premium,None,Y
+Jaguar,E-Pace,23.8925,Automatic,9,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Jaguar,E-Pace P300,23.4266,Automatic,9,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Jaguar,F-Pace,23.8056,Automatic,8,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Jaguar,F-Pace 30t,23.8019,Automatic,8,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Land Rover,Range Rover Velar,23.1444,Automatic,8,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Land Rover,Range Rover Velar P300,22.2506,Automatic,8,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Jaguar,F-Type Coupe,22.6919,Automatic,8,RWD,3,6,Two Seater,Y,Super,Premium,None,Y
+Jaguar,F-Type Convertible,22.6919,Automatic,8,RWD,3,6,Two Seater,Y,Super,Premium,None,Y
+Jaguar,F-Type S Coupe,21.8371,Automatic,8,RWD,3,6,Two Seater,Y,Super,Premium,None,Y
+Jaguar,F-Type S Convertible,21.8371,Automatic,8,RWD,3,6,Two Seater,Y,Super,Premium,None,Y
+Jaguar,F-Type S AWD Coupe,20.8635,Automatic,8,AWD,3,6,Two Seater,Y,Super,Premium,None,Y
+Jaguar,F-Type S AWD Convertible,20.8635,Automatic,8,AWD,3,6,Two Seater,Y,Super,Premium,None,Y
+Jaguar,XF AWD,22.6633,Automatic,8,AWD,3,6,Midsize,Y,Super,Premium,None,Y
+Jaguar,XF Sportbrake AWD,20.7786,Automatic,8,AWD,3,6,Mid St Wagon,Y,Super,Premium,None,Y
+Jaguar,F-Pace,19.8739,Automatic,8,AWD,3,6,Sm SUV,Y,Super,Premium,None,Y
+Jaguar,F-Pace,18.1891,Automatic,8,AWD,5,8,Sm SUV,Y,Super,Premium,None,Y
+Land Rover,Evoque,22.5652,Automatic,9,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Hyundai,Palisade AWD,21.1618,Automatic,8,AWD,3.8,6,Std SUV,Y,Natural,Regular,None,N
+BMW,230i Coupe,27.2748,Automatic,8,RWD,2,4,Subcompact,Y,Turbo,Premium,None,Y
+Hyundai,Elantra,34,CVT,1,FWD,2,4,Midsize,N,Natural,Regular,None,N
+Hyundai,Elantra SE,35.2379,CVT,1,FWD,2,4,Midsize,N,Natural,Regular,None,N
+Toyota,GR Supra,26.4025,Automatic,8,RWD,3,6,Two Seater,Y,Turbo,Premium,None,Y
+BMW,230i Coupe,24.9272,Manual,6,RWD,2,4,Subcompact,Y,Turbo,Premium,None,Y
+BMW,230i xDrive Coupe,24.3879,Automatic,8,AWD,2,4,Subcompact,Y,Turbo,Premium,None,Y
+BMW,230i Convertible,27.0724,Automatic,8,RWD,2,4,Subcompact,Y,Turbo,Premium,None,Y
+BMW,230i xDrive Convertible,24.3879,Automatic,8,AWD,2,4,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M240i Coupe M Performance,24.9871,Automatic,8,RWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M240i Coupe M Performance,21.6548,Manual,6,RWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M240i xDrive Coupe M Performance,24.8442,Automatic,8,AWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M240i Coupe,24.9871,Automatic,8,RWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M240i Coupe,21.6548,Manual,6,RWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M240i xDrive Coupe,24.8442,Automatic,8,AWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M240i Convertible,24.9871,Automatic,8,RWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M240i Convertible,21.6548,Manual,6,RWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M240i xDrive Convertible,24.8442,Automatic,8,AWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M2 Competition Coupe,20.1642,Manual,6,RWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M2 Competition Coupe,18.8151,Manual,7,RWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+BMW,430i Convertible,27.0724,Automatic,8,RWD,2,4,Subcompact,Y,Turbo,Premium,None,Y
+BMW,430i xDrive Convertible,25.7088,Automatic,8,AWD,2,4,Subcompact,Y,Turbo,Premium,None,Y
+BMW,440i Convertible,24.4977,Automatic,8,RWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+BMW,440i xDrive Convertible,22.5081,Automatic,8,AWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M4 Convertible,19.8307,Manual,6,RWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M4 Convertible,18.5025,Manual,7,RWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M4 Convertible Competition,19.8307,Manual,6,RWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M4 Convertible Competition,18.5025,Manual,7,RWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+Acura,TLX FWD,26.9868,Manual,8,FWD,2.4,4,Compact,Y,Natural,Premium,None,N
+Acura,TLX FWD A-SPEC,26.3463,Manual,8,FWD,2.4,4,Compact,Y,Natural,Premium,None,N
+Acura,TLX FWD,23.7694,Automatic,9,FWD,3.5,6,Compact,Y,Natural,Premium,None,N
+Acura,TLX FWD A-SPEC,23.3109,Automatic,9,FWD,3.5,6,Compact,Y,Natural,Premium,None,N
+Acura,TLX AWD,23.051,Automatic,9,AWD,3.5,6,Compact,Y,Natural,Premium,None,Y
+Acura,TLX AWD A-SPEC,22.8512,Automatic,9,AWD,3.5,6,Compact,Y,Natural,Premium,None,Y
+BMW,330i,29.633,Automatic,8,RWD,2,4,Compact,Y,Turbo,Premium,None,Y
+BMW,M340i xDrive,24.8442,Automatic,8,AWD,3,6,Compact,Y,Turbo,Premium,None,Y
+BMW,M340i,24.9871,Automatic,8,RWD,3,6,Compact,Y,Turbo,Premium,None,Y
+BMW,430i Coupe,27.0724,Automatic,8,RWD,2,4,Compact,Y,Turbo,Premium,None,Y
+BMW,430i Coupe,25.3226,Manual,6,RWD,2,4,Compact,Y,Turbo,Premium,None,Y
+BMW,430i xDrive Coupe,24.3879,Automatic,8,AWD,2,4,Compact,Y,Turbo,Premium,None,Y
+BMW,430i Gran Coupe,27.0724,Automatic,8,RWD,2,4,Compact,Y,Turbo,Premium,None,Y
+BMW,430i xDrive Gran Coupe,24.3879,Automatic,8,AWD,2,4,Compact,Y,Turbo,Premium,None,Y
+BMW,440i Coupe,24.9871,Automatic,8,RWD,3,6,Compact,Y,Turbo,Premium,None,Y
+BMW,440i Coupe,21.6548,Manual,6,RWD,3,6,Compact,Y,Turbo,Premium,None,Y
+BMW,440i xDrive Coupe,24.8442,Automatic,8,AWD,3,6,Compact,Y,Turbo,Premium,None,Y
+BMW,440i xDrive Coupe,21.4433,Manual,6,AWD,3,6,Compact,Y,Turbo,Premium,None,Y
+BMW,440i Gran Coupe,24.9871,Automatic,8,RWD,3,6,Compact,Y,Turbo,Premium,None,Y
+BMW,440i xDrive Gran Coupe,24.8442,Automatic,8,AWD,3,6,Compact,Y,Turbo,Premium,None,Y
+BMW,M4 Coupe,20.1642,Manual,6,RWD,3,6,Compact,Y,Turbo,Premium,None,Y
+BMW,M4 Coupe,18.8151,Manual,7,RWD,3,6,Compact,Y,Turbo,Premium,None,Y
+BMW,M4 CS,18.8151,Manual,7,RWD,3,6,Compact,Y,Turbo,Premium,None,Y
+BMW,M4 Coupe Competition,20.1642,Manual,6,RWD,3,6,Compact,Y,Turbo,Premium,None,Y
+BMW,M4 Coupe Competition,18.8151,Manual,7,RWD,3,6,Compact,Y,Turbo,Premium,None,Y
+BMW,740i,24.4977,Automatic,8,RWD,3,6,Large,Y,Turbo,Premium,None,Y
+BMW,740i xDrive,22.5081,Automatic,8,AWD,3,6,Large,Y,Turbo,Premium,None,Y
+BMW,750i xDrive,19.6254,Automatic,8,AWD,4.4,8,Large,Y,Turbo,Premium,None,Y
+BMW,M760i xDrive,15.5255,Automatic,8,AWD,6.6,12,Large,Y,Turbo,Premium,None,Y
+Jeep,Gladiator Pickup 4WD,19.0841,Automatic,8,4WD,3.6,6,Std Pickup Truck,N,Natural,Regular,None,Y
+Jeep,Gladiator Pickup 4WD,18.707,Manual,6,4WD,3.6,6,Std Pickup Truck,N,Natural,Regular,None,Y
+Land Rover,Range Rover Velar,17.3748,Automatic,8,AWD,5,8,Sm SUV,Y,Super,Premium,None,Y
+BMW,745e xDrive,21.8005,Automatic,8,AWD,3,6,Large,Y,Turbo,Premium,Plug-in Hybrid,Y
+BMW,Z4 M40i,26.4025,Automatic,8,RWD,3,6,Two Seater,Y,Turbo,Premium,None,Y
+Nissan,370Z,21.9494,Automatic,7,RWD,3.7,6,Two Seater,N,Natural,Premium,None,N
+Nissan,370Z,19.9574,Manual,6,RWD,3.7,6,Two Seater,N,Natural,Premium,None,N
+Nissan,370Z Roadster,20.752,Automatic,7,RWD,3.7,6,Two Seater,N,Natural,Premium,None,N
+Genesis,G70 AWD,23.0588,Automatic,8,AWD,2,4,Compact,Y,Turbo,Premium,None,Y
+Genesis,G70 RWD,24.8653,Automatic,8,RWD,2,4,Compact,Y,Turbo,Premium,None,Y
+Genesis,G70 RWD,21.6779,Manual,6,RWD,2,4,Compact,Y,Turbo,Premium,None,N
+Hyundai,Veloster,29.749,Automatic,6,FWD,2,4,Compact,N,Natural,Regular,None,N
+Hyundai,Veloster,28.2369,Manual,6,FWD,2,4,Compact,N,Natural,Regular,None,N
+Hyundai,Veloster,30.2742,Manual,7,FWD,1.6,4,Compact,Y,Turbo,Regular,None,N
+Hyundai,Veloster,28.9551,Manual,6,FWD,1.6,4,Compact,Y,Turbo,Regular,None,N
+Hyundai,Veloster N,24.7112,Manual,6,FWD,2,4,Compact,Y,Turbo,Regular,None,N
+Toyota,Sienna 2WD,21.342,Automatic,8,FWD,3.5,6,Minivan,Y,Natural,Regular,None,N
+Toyota,Sienna AWD,20.1322,Automatic,8,AWD,3.5,6,Minivan,Y,Natural,Regular,None,N
+Hyundai,Palisade FWD,21.9908,Automatic,8,FWD,3.8,6,Std SUV,Y,Natural,Regular,None,N
+Aston Martin,Vantage V8,20.4155,Automatic,8,RWD,4,8,Two Seater,N,Turbo,Premium,None,N
+Audi,R8 AWD,15.9153,Manual,7,AWD,5.2,10,Two Seater,Y,Natural,Premium,None,N
+Lamborghini,Huracan,14.9899,Manual,7,AWD,5.2,10,Two Seater,Y,Natural,Premium,None,N
+Lamborghini,Huracan Spyder,14.9899,Manual,7,AWD,5.2,10,Two Seater,Y,Natural,Premium,None,N
+Aston Martin,DB11 V12,17.7222,Automatic,8,RWD,5.2,12,Minicompact,N,Turbo,Premium,None,N
+Aston Martin,DB11 V8,20.4132,Automatic,8,RWD,4,8,Minicompact,N,Turbo,Premium,None,N
+Genesis,G70 AWD,19.5855,Automatic,8,AWD,3.3,6,Compact,Y,Turbo,Premium,None,N
+Genesis,G70 RWD,20.0929,Automatic,8,RWD,3.3,6,Compact,Y,Turbo,Premium,None,N
+Hyundai,Accent,36.2273,CVT,1,FWD,1.6,4,Compact,N,Natural,Regular,None,N
+Hyundai,Accent,32.6036,Manual,6,FWD,1.6,4,Compact,N,Natural,Regular,None,N
+Hyundai,Elantra,36.0339,Manual,7,FWD,1.4,4,Midsize,Y,Turbo,Regular,None,N
+Kia,Sedona,20.5357,Automatic,8,FWD,3.3,6,Minivan,Y,Natural,Regular,None,N
+Acura,RDX FWD,24,Automatic,10,FWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Acura,RDX FWD A-SPEC,23.6383,Automatic,10,FWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Acura,RDX AWD,23,Automatic,10,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Acura,RDX AWD A-SPEC,22.932,Automatic,10,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Hyundai,Kona AWD,27.473,Manual,7,AWD,1.6,4,Sm SUV,Y,Turbo,Regular,None,N
+Hyundai,Kona FWD,29.5096,Manual,7,FWD,1.6,4,Sm SUV,Y,Turbo,Regular,None,N
+Hyundai,Kona FWD,29.7575,Automatic,6,FWD,2,4,Sm SUV,Y,Natural,Regular,None,N
+Hyundai,Kona AWD,27.5263,Automatic,6,AWD,2,4,Sm SUV,Y,Natural,Regular,None,N
+Chevrolet,Malibu,25.7929,Automatic,9,FWD,2,4,Midsize,Y,Turbo,Premium,None,N
+Genesis,G80 AWD,20.117,Automatic,8,AWD,3.8,6,Large,Y,Natural,Regular,None,N
+Genesis,G80 RWD,21.1622,Automatic,8,RWD,3.8,6,Large,Y,Natural,Regular,None,N
+Cadillac,XT6 FWD,20.3508,Automatic,9,FWD,3.6,6,Sm SUV,Y,Natural,Regular,None,Y
+Cadillac,XT6 AWD,20.005,Automatic,9,AWD,3.6,6,Sm SUV,Y,Natural,Regular,None,Y
+Subaru,Ascent,22.9336,CVT,8,AWD,2.4,4,Std SUV,Y,Turbo,Regular,None,N
+Subaru,Ascent Limited/Touring,22.0533,CVT,8,AWD,2.4,4,Std SUV,Y,Turbo,Regular,None,N
+Hyundai,Elantra,29.9053,Manual,6,FWD,2,4,Midsize,N,Natural,Regular,None,N
+Kia,Optima Hybrid,41.9107,Manual,6,FWD,2,4,Midsize,Y,Natural,Regular,Hybrid,Y
+Buick,Envision FWD,24.7031,Automatic,6,FWD,2.5,4,Sm SUV,Y,Natural,Regular,None,Y
+Hyundai,Tucson FWD,25.077,Automatic,6,FWD,2,4,Sm SUV,Y,Natural,Regular,None,N
+Hyundai,Tucson FWD,24.6367,Automatic,6,FWD,2.4,4,Sm SUV,Y,Natural,Regular,None,N
+Buick,Envision AWD,23.6232,Automatic,6,AWD,2.5,4,Sm SUV,Y,Natural,Regular,None,Y
+Buick,Envision AWD,22.0702,Automatic,9,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Hyundai,Tucson AWD,23.3296,Automatic,6,AWD,2,4,Sm SUV,Y,Natural,Regular,None,N
+Hyundai,Tucson AWD,23.2574,Automatic,6,AWD,2.4,4,Sm SUV,Y,Natural,Regular,None,N
+Land Rover,Range Rover Velar P380,20.2457,Automatic,8,AWD,3,6,Sm SUV,Y,Super,Premium,None,Y
+Land Rover,Range Rover Velar,20.2457,Automatic,8,AWD,3,6,Sm SUV,Y,Super,Premium,None,Y
+Jaguar,F-Type AWD Coupe,18.4489,Automatic,8,AWD,5,8,Two Seater,Y,Super,Premium,None,Y
+Jaguar,F-Type AWD Convertible,18.4489,Automatic,8,AWD,5,8,Two Seater,Y,Super,Premium,None,Y
+Chevrolet,Spark,32.963,CVT,1,FWD,1.4,4,Subcompact,N,Natural,Regular,None,N
+Chevrolet,Spark,32.5457,Manual,5,FWD,1.4,4,Subcompact,N,Natural,Regular,None,N
+Chevrolet,Spark ACTIV,32,Manual,5,FWD,1.4,4,Subcompact,N,Natural,Regular,None,N
+Chevrolet,Spark ACTIV,32.963,CVT,1,FWD,1.4,4,Subcompact,N,Natural,Regular,None,N
+Lexus,RC F,19.238,Automatic,8,RWD,5,8,Subcompact,Y,Natural,Premium,None,N
+Hyundai,Elantra,29.1092,Manual,7,FWD,1.6,4,Midsize,Y,Turbo,Regular,None,N
+Kia,Forte,30.3006,Manual,7,FWD,1.6,4,Midsize,Y,Turbo,Regular,None,N
+Kia,Forte,27.6057,Manual,6,FWD,1.6,4,Midsize,Y,Turbo,Regular,None,N
+Kia,Forte FE,34.7078,CVT,1,FWD,2,4,Midsize,N,Natural,Regular,None,N
+Kia,Forte,33.3395,CVT,1,FWD,2,4,Midsize,N,Natural,Regular,None,N
+Kia,Forte,31.0015,Manual,6,FWD,2,4,Midsize,N,Natural,Regular,None,N
+Genesis,G80 AWD,19.6948,Automatic,8,AWD,3.3,6,Large,Y,Turbo,Premium,None,N
+Genesis,G80 RWD,20.2026,Automatic,8,RWD,3.3,6,Large,Y,Turbo,Premium,None,N
+Genesis,G80 AWD,17.7991,Automatic,8,AWD,5,8,Large,Y,Natural,Premium,None,N
+Genesis,G80 RWD,18.812,Automatic,8,RWD,5,8,Large,Y,Natural,Premium,None,N
+Kia,Optima,30.5243,Manual,7,FWD,1.6,4,Large,Y,Turbo,Regular,None,N
+Kia,Optima,24.2002,Automatic,6,FWD,2,4,Large,Y,Turbo,Regular,None,N
+Kia,Optima,27.2397,Automatic,6,FWD,2.4,4,Large,Y,Natural,Regular,None,N
+Kia,Optima FE,28.7747,Automatic,6,FWD,2.4,4,Large,Y,Natural,Regular,None,N
+Ford,Transit Connect Van 2WD,25.1953,Automatic,8,FWD,2,4,SPV,Y,Natural,Regular,None,Y
+Ford,Transit Connect Van FFV,25.1953,Automatic,8,FWD,2,4,SPV,Y,Natural,Regular,FFV,Y
+Ford,Transit Connect Wagon LWB FWD,25.6715,Automatic,8,FWD,2,4,SPV,Y,Natural,Regular,None,Y
+Ford,Transit Connect Wagon LWB FFV,25.6715,Automatic,8,FWD,2,4,SPV,Y,Natural,Regular,FFV,Y
+Ford,Transit Connect Van 2WD,22.2684,Automatic,6,FWD,2.5,4,SPV,N,Natural,Regular,None,N
+Ford,Transit Connect Wagon LWB FWD,22.2055,Automatic,6,FWD,2.5,4,SPV,N,Natural,Regular,None,N
+Ford,Transit Connect USPS,22.2684,Automatic,6,FWD,2.5,4,SPV,N,Natural,Regular,None,N
+Hyundai,Santa Fe FWD,22.5215,Automatic,8,FWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Hyundai,Santa Fe FWD,24.5725,Automatic,8,FWD,2.4,4,Sm SUV,Y,Natural,Regular,None,Y
+Lexus,NX 300,24.6917,Automatic,6,FWD,2,4,Sm SUV,Y,Turbo,Premium,None,N
+Mitsubishi,Outlander 2WD,27.3502,CVT,6,FWD,2.4,4,Sm SUV,N,Natural,Regular,None,N
+Hyundai,Santa Fe AWD,21.9071,Automatic,8,AWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Hyundai,Santa Fe AWD,23.5361,Automatic,8,AWD,2.4,4,Sm SUV,Y,Natural,Regular,None,Y
+Lexus,NX 300h AWD,31,CVT,6,AWD,2.5,4,Sm SUV,N,Natural,Regular,Hybrid,Y
+Lexus,NX 300 AWD,24.4161,Automatic,6,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,N
+Lexus,NX 300 AWD F Sport,23.6858,Automatic,6,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,N
+Mitsubishi,Outlander 4WD,25.9027,CVT,6,4WD,2.4,4,Sm SUV,N,Natural,Regular,None,N
+Ford,Explorer RWD,24.2206,Automatic,10,RWD,2.3,4,Std SUV,Y,Turbo,Regular,None,Y
+Lincoln,Aviator RWD,21.0078,Automatic,10,RWD,3,6,Std SUV,Y,Turbo,Regular,None,Y
+Ford,Explorer AWD,23.2015,Automatic,10,PT 4WD,2.3,4,Std SUV,Y,Turbo,Regular,None,Y
+Lincoln,Aviator AWD,19.7885,Automatic,10,PT 4WD,3,6,Std SUV,Y,Turbo,Regular,None,Y
+Toyota,Prius Prime,54.4329,CVT,1,FWD,1.8,4,Midsize,N,Natural,Regular,Plug-in Hybrid,Y
+Volvo,S60 FWD,27.389,Automatic,8,FWD,2,4,Compact,Y,Turbo,Premium,None,Y
+Volvo,S60 AWD,25.0491,Automatic,8,AWD,2,4,Compact,Y,Super+Turbo,Premium,None,Y
+Chevrolet,Malibu,31.5018,CVT,1,FWD,1.5,4,Midsize,Y,Turbo,Regular,None,Y
+Volvo,S90 AWD,24.7474,Automatic,8,AWD,2,4,Midsize,Y,Super+Turbo,Premium,None,Y
+Volvo,V60 FWD,27.389,Automatic,8,FWD,2,4,Sm St Wagon,Y,Turbo,Premium,None,Y
+Volvo,V60 CC AWD,24.9238,Automatic,8,AWD,2,4,Sm St Wagon,Y,Turbo,Premium,None,Y
+Volvo,V90 FWD,26,Automatic,8,FWD,2,4,Mid St Wagon,Y,Turbo,Premium,None,Y
+Volvo,V90 AWD,24.7474,Automatic,8,AWD,2,4,Mid St Wagon,Y,Super+Turbo,Premium,None,Y
+Volvo,V90 CC AWD,23.685,Automatic,8,AWD,2,4,Mid St Wagon,Y,Super+Turbo,Premium,None,Y
+Chevrolet,Equinox FWD,28.1539,Automatic,6,FWD,1.5,4,Sm SUV,Y,Turbo,Regular,None,Y
+Chevrolet,Equinox FWD,25.3669,Automatic,9,FWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+GMC,Terrain FWD,27.4108,Automatic,9,FWD,1.5,4,Sm SUV,Y,Turbo,Regular,None,Y
+Volvo,XC60 FWD,24.4149,Automatic,8,FWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Volvo,XC40 FWD,26.7102,Automatic,8,FWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Chevrolet,Equinox AWD,27.3399,Automatic,6,AWD,1.5,4,Sm SUV,Y,Turbo,Regular,None,Y
+Chevrolet,Equinox AWD,24.1864,Automatic,9,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+GMC,Terrain AWD,26.2618,Automatic,9,AWD,1.5,4,Sm SUV,Y,Turbo,Regular,None,Y
+GMC,Terrain AWD,23,Automatic,9,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Volvo,XC60 AWD,22.8409,Automatic,8,AWD,2,4,Sm SUV,Y,Super+Turbo,Premium,None,Y
+Volvo,XC40 AWD,25.0718,Automatic,8,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Volvo,XC90 FWD,24.5182,Automatic,8,FWD,2,4,Std SUV,Y,Turbo,Premium,None,Y
+Ford,Explorer AWD,20.4611,Automatic,10,PT 4WD,3,6,Std SUV,Y,Turbo,Regular,None,Y
+Ford,Explorer FFV AWD,18.7074,Automatic,10,PT 4WD,3.3,6,Std SUV,Y,Natural,Regular,FFV,N
+Mercedes-Benz,AMG GT Coupe,18.1314,Manual,7,RWD,4,8,Two Seater,Y,Turbo,Premium,None,Y
+Mercedes-Benz,AMG GT Roadster,18.1314,Manual,7,RWD,4,8,Two Seater,Y,Turbo,Premium,None,Y
+Buick,Encore FWD,26.9819,Automatic,6,FWD,1.4,4,Sm SUV,N,Turbo,Regular,None,N
+Chevrolet,Trax FWD,28.0161,Automatic,6,FWD,1.4,4,Sm SUV,N,Turbo,Regular,None,N
+Buick,Encore AWD,25.8831,Automatic,6,AWD,1.4,4,Sm SUV,N,Turbo,Regular,None,N
+Chevrolet,Trax AWD,25.8831,Automatic,6,AWD,1.4,4,Sm SUV,N,Turbo,Regular,None,N
+Volvo,XC60 AWD,22.9931,Automatic,8,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Buick,Enclave FWD,21.1648,Automatic,9,FWD,3.6,6,Std SUV,Y,Natural,Regular,None,Y
+Chevrolet,Traverse FWD,21.1648,Automatic,9,FWD,3.6,6,Std SUV,Y,Natural,Regular,None,Y
+Buick,Enclave AWD,20.0162,Automatic,9,AWD,3.6,6,Std SUV,Y,Natural,Regular,None,Y
+Chevrolet,Traverse AWD,20.0908,Automatic,9,AWD,3.6,6,Std SUV,Y,Natural,Regular,None,Y
+Volvo,XC90 AWD,22.9931,Automatic,8,AWD,2,4,Std SUV,Y,Turbo,Premium,None,Y
+Kia,Optima Plug-in Hybrid,41.1024,Manual,6,FWD,2,4,Midsize,Y,Natural,Regular,Plug-in Hybrid,Y
+Alfa Romeo,4C,27.9406,Manual,6,RWD,1.8,4,Two Seater,Y,Turbo,Premium,None,N
+Chevrolet,Sonic,28.8278,Automatic,6,FWD,1.4,4,Compact,N,Turbo,Regular,None,N
+Nissan,Altima,32,CVT,1,FWD,2.5,4,Midsize,Y,Natural,Regular,None,N
+Nissan,Altima SR/Platinum,30.9338,CVT,1,FWD,2.5,4,Midsize,Y,Natural,Regular,None,N
+Nissan,Altima AWD,30.2081,CVT,1,AWD,2.5,4,Midsize,Y,Natural,Regular,None,N
+Nissan,Altima AWD SR/Platinum,29,CVT,1,AWD,2.5,4,Midsize,Y,Natural,Regular,None,N
+Nissan,Altima SR/Platinum,28.6068,CVT,1,FWD,2,4,Midsize,Y,Turbo,Regular,None,N
+Kia,K900,20.8639,Automatic,8,AWD,3.3,6,Large,Y,Turbo,Premium,None,Y
+Chevrolet,Sonic 5,28.8278,Automatic,6,FWD,1.4,4,Sm St Wagon,N,Turbo,Regular,None,N
+Cadillac,XT4 FWD,26.4849,Automatic,9,FWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Infiniti,QX60 FWD,22.302,CVT,7,FWD,3.5,6,Sm SUV,Y,Natural,Premium,None,N
+Cadillac,XT4 AWD,24.2745,Automatic,9,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Infiniti,QX60 AWD,21.6894,CVT,7,AWD,3.5,6,Sm SUV,Y,Natural,Premium,None,N
+Subaru,BRZ,23.7786,Manual,6,RWD,2,4,Minicompact,Y,Natural,Premium,None,N
+Subaru,BRZ,27.4825,Automatic,6,RWD,2,4,Minicompact,Y,Natural,Premium,None,N
+Subaru,BRZ tS,22.9745,Manual,6,RWD,2,4,Minicompact,Y,Natural,Premium,None,N
+Chevrolet,Camaro,15.5519,Automatic,10,RWD,6.2,8,Subcompact,Y,Super,Premium,None,N
+Chevrolet,Camaro,15.7384,Manual,6,RWD,6.2,8,Subcompact,Y,Super,Premium,None,N
+Chevrolet,Camaro,23.3581,Manual,6,RWD,2,4,Subcompact,Y,Turbo,Premium,None,N
+Chevrolet,Camaro,24.9925,Automatic,8,RWD,2,4,Subcompact,Y,Turbo,Premium,None,N
+Chevrolet,Camaro,19.7097,Manual,6,RWD,3.6,6,Subcompact,Y,Natural,Regular,None,N
+Lexus,LC 500,18.6475,Automatic,10,RWD,5,8,Subcompact,Y,Natural,Premium,None,N
+Lexus,LC 500h,29.6181,CVT,10,RWD,3.5,6,Subcompact,Y,Natural,Premium,Hybrid,Y
+Kia,Rio,35.8416,CVT,1,FWD,1.6,4,Compact,N,Natural,Regular,None,N
+Subaru,WRX,23.1422,Manual,6,AWD,2,4,Compact,Y,Turbo,Premium,None,N
+Subaru,WRX,20.5416,CVT,8,AWD,2,4,Compact,Y,Turbo,Premium,None,N
+Subaru,WRX,18.6117,Manual,6,AWD,2.5,4,Compact,N,Turbo,Premium,None,N
+Buick,Regal,25.91,Automatic,9,FWD,2,4,Midsize,Y,Turbo,Premium,None,N
+Buick,Regal AWD,24.3822,Automatic,8,AWD,2,4,Midsize,Y,Turbo,Premium,None,N
+Hyundai,Elantra GT,27.489,Automatic,6,FWD,2,4,Large,Y,Natural,Regular,None,N
+Hyundai,Elantra GT,27.6399,Manual,7,FWD,1.6,4,Large,Y,Turbo,Regular,None,N
+Hyundai,Elantra GT,25.5513,Manual,6,FWD,1.6,4,Large,Y,Turbo,Regular,None,N
+Subaru,Legacy AWD,30.0538,CVT,8,AWD,2.5,4,Large,Y,Natural,Regular,None,N
+Subaru,Legacy AWD,26.919,CVT,8,AWD,2.4,4,Large,Y,Turbo,Regular,None,Y
+Buick,Regal TourX AWD,24.3822,Automatic,8,AWD,2,4,Sm St Wagon,Y,Turbo,Premium,None,N
+Mitsubishi,Eclipse Cross 2WD,26,CVT,8,FWD,1.5,4,Sm SUV,Y,Turbo,Regular,None,N
+Mitsubishi,Eclipse Cross ES 2WD,27,CVT,8,FWD,1.5,4,Sm SUV,Y,Turbo,Regular,None,N
+Mitsubishi,Eclipse Cross ES 4WD,26.1535,CVT,8,4WD,1.5,4,Sm SUV,Y,Turbo,Regular,None,N
+Subaru,Forester AWD,28.6895,CVT,7,AWD,2.5,4,Sm SUV,Y,Natural,Regular,None,Y
+Subaru,Outback AWD,28.7858,CVT,8,AWD,2.5,4,Sm SUV,Y,Natural,Regular,None,Y
+Subaru,Outback AWD,25.8134,CVT,8,AWD,2.4,4,Sm SUV,Y,Turbo,Regular,None,Y
+Cadillac,Escalade 2WD,17.1741,Automatic,10,RWD,6.2,8,Std SUV,Y,Natural,Premium,None,N
+Chevrolet,Tahoe C1500 2WD,17.5914,Automatic,6,RWD,5.3,8,Std SUV,Y,Natural,Regular,FFV,N
+Chevrolet,Suburban C1500 2WD,17.5914,Automatic,6,RWD,5.3,8,Std SUV,Y,Natural,Regular,FFV,N
+Chevrolet,Tahoe C1500 2WD,17.5914,Automatic,6,RWD,5.3,8,Std SUV,Y,Natural,Regular,None,N
+Chevrolet,Suburban C1500 2WD,17.5914,Automatic,6,RWD,5.3,8,Std SUV,Y,Natural,Regular,None,N
+Chevrolet,Tahoe C1500 2WD,17.1741,Automatic,10,RWD,6.2,8,Std SUV,Y,Natural,Premium,None,N
+GMC,Yukon C1500 2WD,17.5914,Automatic,6,RWD,5.3,8,Std SUV,Y,Natural,Regular,FFV,N
+GMC,Yukon C1500 XL 2WD,17.5914,Automatic,6,RWD,5.3,8,Std SUV,Y,Natural,Regular,FFV,N
+GMC,Yukon C1500 2WD,17.5914,Automatic,6,RWD,5.3,8,Std SUV,Y,Natural,Regular,None,N
+GMC,Yukon C1500 XL 2WD,17.5914,Automatic,6,RWD,5.3,8,Std SUV,Y,Natural,Regular,None,N
+GMC,Yukon C1500 2WD,17.1741,Automatic,10,RWD,6.2,8,Std SUV,Y,Natural,Premium,None,N
+GMC,Yukon C1500 XL 2WD,17.1741,Automatic,10,RWD,6.2,8,Std SUV,Y,Natural,Premium,None,N
+Cadillac,Escalade 4WD,16.5637,Automatic,10,4WD,6.2,8,Std SUV,Y,Natural,Premium,None,N
+Chevrolet,Tahoe K1500 4WD,16.9426,Automatic,6,4WD,5.3,8,Std SUV,Y,Natural,Regular,None,N
+Chevrolet,Tahoe K1500 4WD,17.32,Automatic,6,4WD,5.3,8,Std SUV,Y,Natural,Regular,FFV,N
+Chevrolet,Suburban K1500 4WD,16.3683,Automatic,6,4WD,5.3,8,Std SUV,Y,Natural,Regular,FFV,N
+Chevrolet,Tahoe K1500 4WD,16.8656,Automatic,10,4WD,6.2,8,Std SUV,Y,Natural,Premium,None,N
+GMC,Yukon K1500 XL 4WD,16.3683,Automatic,6,4WD,5.3,8,Std SUV,Y,Natural,Regular,FFV,N
+GMC,Yukon K1500 4WD,17.32,Automatic,6,4WD,5.3,8,Std SUV,Y,Natural,Regular,FFV,N
+GMC,Yukon K1500 XL 4WD,15.9496,Automatic,10,4WD,6.2,8,Std SUV,Y,Natural,Premium,None,N
+GMC,Yukon K1500 4WD,16.8656,Automatic,10,4WD,6.2,8,Std SUV,Y,Natural,Premium,None,N
+Audi,R8 Spyder AWD,15.9153,Manual,7,AWD,5.2,10,Two Seater,Y,Natural,Premium,None,N
+Mercedes-Benz,AMG GT C Coupe,17.4463,Manual,7,RWD,4,8,Two Seater,Y,Turbo,Premium,None,Y
+Kia,Stinger AWD,24.1415,Automatic,8,AWD,2,4,Midsize,Y,Turbo,Premium,None,Y
+Kia,Stinger RWD,24.5081,Automatic,8,RWD,2,4,Midsize,Y,Turbo,Premium,None,Y
+Kia,Stinger AWD,19.9185,Automatic,8,AWD,3.3,6,Midsize,Y,Turbo,Premium,None,Y
+Kia,Stinger RWD,20.1077,Automatic,8,RWD,3.3,6,Midsize,Y,Turbo,Premium,None,Y
+Kia,Sorento FWD,24.518,Automatic,6,FWD,2.4,4,Sm SUV,Y,Natural,Regular,None,N
+Kia,Sorento FWD,21.667,Automatic,8,FWD,3.3,6,Sm SUV,Y,Natural,Regular,None,N
+Kia,Sorento AWD,23.055,Automatic,6,AWD,2.4,4,Sm SUV,Y,Natural,Regular,None,N
+Kia,Sorento AWD,20.444,Automatic,8,AWD,3.3,6,Sm SUV,Y,Natural,Regular,None,N
+Chevrolet,Suburban C1500 2WD,17.1741,Automatic,10,RWD,6.2,8,Std SUV,Y,Natural,Premium,None,N
+Chevrolet,Suburban K1500 4WD,15.9496,Automatic,10,4WD,6.2,8,Std SUV,Y,Natural,Premium,None,N
+Porsche,Cayenne Turbo,16.9743,Automatic,8,AWD,4,8,Std SUV,Y,Turbo,Premium,None,Y
+Fiat,124 Spider,29.2998,Automatic,6,RWD,1.4,4,Two Seater,N,Turbo,Premium,None,N
+Fiat,124 Spider,29.6662,Manual,6,RWD,1.4,4,Two Seater,N,Turbo,Premium,None,N
+Nissan,GT-R,18.3595,Manual,6,AWD,3.8,6,Subcompact,N,Turbo,Premium,None,N
+Genesis,G90 AWD,19.9948,Automatic,8,AWD,3.3,6,Large,Y,Turbo,Premium,None,N
+Genesis,G90 RWD,20.2402,Automatic,8,RWD,3.3,6,Large,Y,Turbo,Premium,None,N
+Genesis,G90 AWD,18.0062,Automatic,8,AWD,5,8,Large,Y,Natural,Premium,None,N
+Genesis,G90 RWD,18.5923,Automatic,8,RWD,5,8,Large,Y,Natural,Premium,None,N
+Chevrolet,Colorado 2WD,23.3948,Automatic,6,RWD,2.8,4,Sm Pickup Truck,N,Turbo,Diesel,Diesel,Y
+Chevrolet,Colorado 2WD,20.1722,Automatic,8,RWD,3.6,6,Sm Pickup Truck,Y,Natural,Regular,None,N
+Chevrolet,Colorado 2WD,21.8534,Automatic,6,RWD,2.5,4,Sm Pickup Truck,Y,Natural,Regular,None,N
+GMC,Canyon 2WD,23.3948,Automatic,6,RWD,2.8,4,Sm Pickup Truck,N,Turbo,Diesel,Diesel,Y
+GMC,Canyon 2WD,20.1722,Automatic,8,RWD,3.6,6,Sm Pickup Truck,Y,Natural,Regular,None,N
+GMC,Canyon 2WD,21.8534,Automatic,6,RWD,2.5,4,Sm Pickup Truck,Y,Natural,Regular,None,N
+Chevrolet,Colorado ZR2 4WD,19.416,Automatic,6,4WD,2.8,4,Sm Pickup Truck,N,Turbo,Diesel,Diesel,Y
+Chevrolet,Colorado 4WD,22.3186,Automatic,6,4WD,2.8,4,Sm Pickup Truck,N,Turbo,Diesel,Diesel,Y
+Chevrolet,Colorado 4WD,19.319,Automatic,8,4WD,3.6,6,Sm Pickup Truck,Y,Natural,Regular,None,N
+Chevrolet,Colorado ZR2 4WD,16.6991,Automatic,8,4WD,3.6,6,Sm Pickup Truck,Y,Natural,Regular,None,N
+Chevrolet,Colorado 4WD,20.7689,Automatic,6,4WD,2.5,4,Sm Pickup Truck,Y,Natural,Regular,None,N
+GMC,Canyon 4WD,22.3186,Automatic,6,4WD,2.8,4,Sm Pickup Truck,N,Turbo,Diesel,Diesel,Y
+GMC,Canyon 4WD,19.319,Automatic,8,4WD,3.6,6,Sm Pickup Truck,Y,Natural,Regular,None,N
+GMC,Canyon 4WD,20.7689,Automatic,6,4WD,2.5,4,Sm Pickup Truck,Y,Natural,Regular,None,N
+Ford,EcoSport FWD,27.9226,Automatic,6,FWD,1,3,Sm SUV,Y,Turbo,Regular,None,Y
+Ford,EcoSport AWD,25,Automatic,6,AWD,2,4,Sm SUV,Y,Natural,Regular,None,Y
+Chevrolet,Suburban K1500 4WD,16.2524,Automatic,6,4WD,5.3,8,Std SUV,Y,Natural,Regular,None,N
+GMC,Yukon K1500 XL 4WD,16.2524,Automatic,6,4WD,5.3,8,Std SUV,Y,Natural,Regular,None,N
+GMC,Yukon K1500 4WD,16.9426,Automatic,6,4WD,5.3,8,Std SUV,Y,Natural,Regular,None,N
+Land Rover,Range Rover,24.3843,Automatic,8,4WD,3,6,Std SUV,N,Turbo,Diesel,Diesel,Y
+Land Rover,Range Rover Sport,24.3843,Automatic,8,4WD,3,6,Std SUV,N,Turbo,Diesel,Diesel,Y
+Land Rover,Range Rover,18.0917,Automatic,8,4WD,5,8,Std SUV,Y,Super,Premium,None,Y
+Land Rover,Range Rover LWB,18.0917,Automatic,8,4WD,5,8,Std SUV,Y,Super,Premium,None,Y
+Land Rover,Range Rover SVA,15.5774,Automatic,8,4WD,5,8,Std SUV,Y,Super,Premium,None,Y
+Land Rover,Range Rover LWB SVA,15.1147,Automatic,8,4WD,5,8,Std SUV,Y,Super,Premium,None,Y
+Land Rover,Range Rover Sport,18.7053,Automatic,8,4WD,5,8,Std SUV,Y,Super,Premium,None,Y
+Land Rover,Range Rover Sport SVR,16.4401,Automatic,8,4WD,5,8,Std SUV,Y,Super,Premium,None,Y
+BMW,Z4 sDrive30i,27.2748,Automatic,8,RWD,2,4,Two Seater,Y,Turbo,Premium,None,Y
+Jaguar,F-Type SVR AWD Coupe,18.4489,Automatic,8,AWD,5,8,Two Seater,Y,Super,Premium,None,Y
+Jaguar,F-Type SVR AWD Convertible,18.4489,Automatic,8,AWD,5,8,Two Seater,Y,Super,Premium,None,Y
+Chevrolet,Camaro,22.4537,Automatic,10,RWD,3.6,6,Subcompact,Y,Natural,Regular,None,N
+Chevrolet,Camaro,19.6116,Automatic,10,RWD,6.2,8,Subcompact,Y,Natural,Premium,None,N
+Buick,Regal AWD,21.638,Automatic,9,AWD,3.6,6,Midsize,Y,Natural,Regular,None,Y
+Honda,Insight,51.9827,CVT,1,FWD,1.5,4,Midsize,N,Natural,Regular,Hybrid,Y
+Honda,Insight Touring,47.975,CVT,1,FWD,1.5,4,Midsize,N,Natural,Regular,Hybrid,Y
+Fiat,500 L,24.9382,Automatic,6,FWD,1.4,4,Sm St Wagon,N,Turbo,Premium,None,N
+Ram,1500 2WD,21.8024,Automatic,8,RWD,3.6,6,Std Pickup Truck,N,Natural,Regular,Hybrid,Y
+Ram,1500 2WD,19.0135,Automatic,8,RWD,5.7,8,Std Pickup Truck,N,Natural,Mid,Hybrid,Y
+Ram,1500 2WD,17.2673,Automatic,8,RWD,5.7,8,Std Pickup Truck,N,Natural,Mid,None,Y
+Ram,1500 HFE 2WD,22.5953,Automatic,8,RWD,3.6,6,Std Pickup Truck,N,Natural,Regular,Hybrid,Y
+Ram,1500 4WD,21.242,Automatic,8,4WD,3.6,6,Std Pickup Truck,N,Natural,Regular,Hybrid,Y
+Ram,1500 4WD,18.7327,Automatic,8,4WD,5.7,8,Std Pickup Truck,N,Natural,Mid,Hybrid,Y
+Ram,1500 4WD,17.0221,Automatic,8,4WD,5.7,8,Std Pickup Truck,N,Natural,Mid,None,N
+Acura,MDX FWD,23,Automatic,9,FWD,3.5,6,Sm SUV,Y,Natural,Premium,None,N
+Jeep,Cherokee FWD,25.7892,Automatic,9,FWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Jeep,Cherokee FWD,25.2188,Automatic,9,FWD,2.4,4,Sm SUV,N,Natural,Regular,None,Y
+Jeep,Cherokee FWD,22.9779,Automatic,9,FWD,3.2,6,Sm SUV,N,Natural,Regular,None,Y
+Nissan,Rogue FWD,28.5783,CVT,1,FWD,2.5,4,Sm SUV,N,Natural,Regular,None,N
+Acura,MDX AWD,22.0612,Automatic,9,AWD,3.5,6,Sm SUV,Y,Natural,Premium,None,N
+Acura,MDX AWD A-SPEC,21.3495,Automatic,9,AWD,3.5,6,Sm SUV,Y,Natural,Premium,None,N
+Acura,MDX Hybrid AWD,26.8723,Manual,7,AWD,3,6,Sm SUV,N,Natural,Premium,Hybrid,Y
+BMW,X3 M,16.1587,Automatic,8,AWD,3,6,Sm SUV,Y,Turbo,Premium,None,Y
+BMW,X3 M Competition,16.1587,Automatic,8,AWD,3,6,Sm SUV,Y,Turbo,Premium,None,Y
+BMW,X4 M,16.1587,Automatic,8,AWD,3,6,Sm SUV,Y,Turbo,Premium,None,Y
+BMW,X4 M Competition,16.1587,Automatic,8,AWD,3,6,Sm SUV,Y,Turbo,Premium,None,Y
+Jeep,Cherokee 4WD,24.0852,Automatic,9,AWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Jeep,Cherokee 4WD,24.1812,Automatic,9,AWD,2.4,4,Sm SUV,N,Natural,Regular,None,Y
+Jeep,Cherokee 4WD,22.1899,Automatic,9,AWD,3.2,6,Sm SUV,N,Natural,Regular,None,Y
+Jeep,Cherokee 4WD Active Drive II,23.0251,Automatic,9,AWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Jeep,Cherokee 4WD Active Drive II,21.2626,Automatic,9,AWD,3.2,6,Sm SUV,N,Natural,Regular,None,Y
+Jeep,Cherokee Trailhawk 4WD,22.2086,Automatic,9,AWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Jeep,Cherokee Trailhawk 4WD,20.6882,Automatic,9,AWD,3.2,6,Sm SUV,N,Natural,Regular,None,Y
+Jeep,Wrangler 4WD,20.4192,Automatic,8,4WD,3.6,6,Sm SUV,N,Natural,Regular,None,Y
+Jeep,Wrangler Unlimited 4WD,20.3429,Automatic,8,4WD,3.6,6,Sm SUV,N,Natural,Regular,Hybrid,Y
+Jeep,Wrangler Unlimited 4WD,20.4477,Automatic,8,4WD,3.6,6,Sm SUV,N,Natural,Regular,None,Y
+Mercedes-Benz,GLE350,22.4215,Automatic,9,RWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Nissan,Rogue AWD,27.4629,CVT,1,AWD,2.5,4,Sm SUV,N,Natural,Regular,None,N
+Porsche,Macan,21.1897,Manual,7,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Porsche,Macan S,20.1,Manual,7,AWD,3,6,Sm SUV,Y,Turbo,Premium,None,Y
+Porsche,Cayenne,20.4628,Automatic,8,AWD,3,6,Std SUV,Y,Turbo,Premium,None,Y
+Porsche,Cayenne S,19.7414,Automatic,8,AWD,2.9,6,Std SUV,Y,Turbo,Premium,None,Y
+Ferrari,488 Pista,16.8163,Manual,7,RWD,3.9,8,Two Seater,Y,Turbo,Premium,None,Y
+Ferrari,488 Pista Spider,16.6115,Manual,7,RWD,3.9,8,Two Seater,Y,Turbo,Premium,None,Y
+Ferrari,812 Superfast,13.3412,Manual,7,RWD,6.5,12,Two Seater,Y,Natural,Premium,None,Y
+Ferrari,GTC4Lusso,13.3849,Manual,7,PT 4WD,6.3,12,Minicompact,Y,Natural,Premium,None,Y
+Ferrari,GTC4Lusso T,16.994,Manual,7,RWD,3.9,8,Minicompact,Y,Turbo,Premium,None,Y
+Ferrari,Portofino,18.1715,Manual,7,RWD,3.9,8,Minicompact,Y,Turbo,Premium,None,Y
+MINI,Cooper Convertible,31.3799,Manual,7,FWD,1.5,3,Minicompact,Y,Turbo,Premium,None,Y
+MINI,Cooper S Convertible,29.0313,Manual,7,FWD,2,4,Minicompact,Y,Turbo,Premium,None,N
+MINI,John Cooper Works Convertible,28.2052,Automatic,8,FWD,2,4,Minicompact,Y,Turbo,Premium,None,Y
+BMW,840i Coupe,25.4747,Automatic,8,RWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+BMW,840i xDrive Coupe,23.1997,Automatic,8,AWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+BMW,840i Convertible,24.4737,Automatic,8,RWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+BMW,840i xDrive Convertible,22.6982,Automatic,8,AWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M850i xDrive Coupe,20.3576,Automatic,8,AWD,4.4,8,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M850i xDrive Convertible,19.5915,Automatic,8,AWD,4.4,8,Subcompact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,AMG E53 4matic Plus Coupe,23.3607,Automatic,9,4WD,3,6,Subcompact,Y,Natural,Premium,Hybrid,Y
+Mercedes-Benz,AMG E53 4matic Plus Convertible,22.5517,Automatic,9,4WD,3,6,Subcompact,Y,Natural,Premium,Hybrid,Y
+MINI,Cooper Hardtop 2 door,31.3799,Manual,7,FWD,1.5,3,Subcompact,Y,Turbo,Premium,None,Y
+MINI,Cooper Hardtop 4 door,31.3799,Manual,7,FWD,1.5,3,Subcompact,Y,Turbo,Premium,None,Y
+MINI,Cooper S Hardtop 2 door,29.7917,Manual,7,FWD,2,4,Subcompact,Y,Turbo,Premium,None,N
+MINI,Cooper S Hardtop 4 door,29.7917,Manual,7,FWD,2,4,Subcompact,Y,Turbo,Premium,None,N
+MINI,John Cooper Works Hardtop,28.909,Automatic,8,FWD,2,4,Subcompact,Y,Turbo,Premium,None,N
+BMW,330i xDrive,28.2689,Automatic,8,AWD,2,4,Compact,Y,Turbo,Premium,None,Y
+Mazda,3 4-Door 4WD,28.3285,Automatic,6,4WD,2.5,4,Compact,Y,Natural,Regular,None,N
+Mercedes-Benz,AMG CLS53 4matic Plus,23.4607,Automatic,9,4WD,3,6,Compact,Y,Natural,Premium,Hybrid,Y
+Mercedes-Benz,CLS450,26.4979,Automatic,9,RWD,3,6,Compact,Y,Turbo,Premium,Hybrid,Y
+Mercedes-Benz,CLS450 4matic,25.7655,Automatic,9,4WD,3,6,Compact,Y,Turbo,Premium,Hybrid,Y
+Mercedes-Benz,AMG GT 53 4matic Plus,20.9556,Automatic,9,4WD,3,6,Compact,Y,Natural,Premium,Hybrid,Y
+Toyota,Prius c,46.239,CVT,1,FWD,1.5,4,Compact,N,Natural,Regular,Hybrid,Y
+Acura,RLX,23.1967,Automatic,10,FWD,3.5,6,Midsize,Y,Natural,Premium,None,N
+Acura,RLX Hybrid,28,Manual,7,AWD,3.5,6,Midsize,Y,Natural,Premium,Hybrid,Y
+BMW,X2 xDrive28i,26.5937,Automatic,8,AWD,2,4,Midsize,Y,Turbo,Premium,None,Y
+BMW,X2 sDrive28i,26.7696,Automatic,8,FWD,2,4,Midsize,Y,Turbo,Premium,None,Y
+BMW,X2 M35i,26.136,Automatic,8,AWD,2,4,Midsize,Y,Turbo,Premium,None,Y
+BMW,530i,28.0063,Automatic,8,RWD,2,4,Midsize,Y,Turbo,Premium,None,Y
+BMW,530i xDrive,26.62,Automatic,8,AWD,2,4,Midsize,Y,Turbo,Premium,None,Y
+BMW,540i xDrive,24.5634,Automatic,8,AWD,3,6,Midsize,Y,Turbo,Premium,None,Y
+BMW,M550i xDrive,20.3576,Automatic,8,AWD,4.4,8,Midsize,Y,Turbo,Premium,None,Y
+BMW,840i Gran Coupe,24.4737,Automatic,8,RWD,3,6,Midsize,Y,Turbo,Premium,None,Y
+BMW,840i xDrive Gran Coupe,22.6982,Automatic,8,AWD,3,6,Midsize,Y,Turbo,Premium,None,Y
+BMW,M850i xDrive Gran Coupe,19.5915,Automatic,8,AWD,4.4,8,Midsize,Y,Turbo,Premium,None,Y
+Maserati,Ghibli SQ4,18.6881,Automatic,8,AWD,3,6,Midsize,Y,Turbo,Premium,None,Y
+Maserati,Ghibli,19.3234,Automatic,8,RWD,3,6,Midsize,Y,Turbo,Premium,None,Y
+Maserati,Ghibli S,19.3234,Automatic,8,RWD,3,6,Midsize,Y,Turbo,Premium,None,Y
+Mazda,3 5-Door 2WD,29.1829,Manual,6,FWD,2.5,4,Midsize,Y,Natural,Regular,None,N
+Mazda,3 5-Door 2WD,29.7883,Automatic,6,FWD,2.5,4,Midsize,Y,Natural,Regular,None,N
+Mazda,3 5-Door 4WD,27,Automatic,6,4WD,2.5,4,Midsize,Y,Natural,Regular,None,N
+Mercedes-Benz,AMG E53 4matic Plus,24.01,Automatic,9,4WD,3,6,Midsize,Y,Natural,Premium,Hybrid,Y
+MINI,Cooper Countryman,28.7714,Manual,7,FWD,1.5,3,Midsize,Y,Turbo,Premium,None,Y
+MINI,Cooper Countryman All4,27.3761,Automatic,8,AWD,1.5,3,Midsize,Y,Turbo,Premium,None,N
+MINI,Cooper S Clubman,29.0313,Manual,7,FWD,2,4,Midsize,Y,Turbo,Premium,None,N
+MINI,Cooper S Countryman All4,25.846,Automatic,8,AWD,2,4,Midsize,Y,Turbo,Premium,None,Y
+MINI,John Cooper Works Clubman All4,26.096800000000002,Automatic,8,AWD,2,4,Midsize,Y,Turbo,Premium,None,Y
+MINI,JCW Countryman All4,26.1323,Automatic,8,AWD,2,4,Midsize,Y,Turbo,Premium,None,Y
+BMW,X1 xDrive28i,25.7833,Automatic,8,AWD,2,4,Large,Y,Turbo,Premium,None,Y
+BMW,Alpina B7,19.5915,Automatic,8,AWD,4.4,8,Large,Y,Turbo,Premium,None,Y
+Cadillac,CT6 AWD,21.1796,Automatic,10,AWD,3.6,6,Large,Y,Natural,Regular,None,Y
+Chevrolet,Impala,21.9191,Automatic,6,FWD,3.6,6,Large,Y,Natural,Regular,None,N
+Chevrolet,Impala,21.6458,Automatic,6,FWD,3.6,6,Large,Y,Natural,Regular,FFV,N
+Honda,Civic 5Dr,32.0168,Manual,6,FWD,1.5,4,Large,Y,Turbo,Premium,None,N
+Honda,Civic 5Dr,34.2168,CVT,1,FWD,1.5,4,Large,Y,Turbo,Regular,None,N
+Honda,Civic 5Dr,31.9837,CVT,7,FWD,1.5,4,Large,Y,Turbo,Premium,None,N
+Maserati,Quattroporte GTS,17.1931,Automatic,8,RWD,3.8,8,Large,Y,Turbo,Premium,None,Y
+Maserati,Quattroporte SQ4,18.3114,Automatic,8,AWD,3,6,Large,Y,Turbo,Premium,None,Y
+Maserati,Quattroporte S,19.3234,Automatic,8,RWD,3,6,Large,Y,Turbo,Premium,None,Y
+GMC,Terrain FWD,24,Automatic,9,FWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Honda,Pilot FWD,22.7022,Automatic,9,FWD,3.5,6,Sm SUV,Y,Natural,Regular,None,N
+Honda,Pilot FWD,22.3536,Automatic,6,FWD,3.5,6,Sm SUV,Y,Natural,Regular,None,N
+Mitsubishi,Outlander Sport 2WD,26.5981,CVT,6,FWD,2,4,Sm SUV,N,Natural,Regular,None,N
+BMW,X3 xDrive30i,25.6541,Automatic,8,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+BMW,X3 M40i,23.1538,Automatic,8,AWD,3,6,Sm SUV,Y,Turbo,Premium,None,Y
+BMW,X4 xDrive30i,24.9692,Automatic,8,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+BMW,X4 M40i,23.1538,Automatic,8,AWD,3,6,Sm SUV,Y,Turbo,Premium,None,Y
+Honda,Pilot AWD,22.0581,Automatic,9,AWD,3.5,6,Sm SUV,Y,Natural,Regular,None,N
+Honda,Pilot AWD,21.1417,Automatic,6,AWD,3.5,6,Sm SUV,Y,Natural,Regular,None,N
+Jeep,Wrangler 4WD,22.8165,Automatic,8,4WD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Jeep,Wrangler 4WD,19.9011,Manual,6,4WD,3.6,6,Sm SUV,N,Natural,Regular,None,Y
+Jeep,Wrangler Unlimited 4WD,21.4822,Automatic,8,4WD,2,4,Sm SUV,Y,Turbo,Regular,Hybrid,Y
+Jeep,Wrangler Unlimited 4WD,21,Automatic,8,4WD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Jeep,Wrangler Unlimited 4WD,19.3398,Manual,6,4WD,3.6,6,Sm SUV,N,Natural,Regular,None,Y
+Mitsubishi,Outlander Sport 4WD,25.5957,CVT,6,4WD,2,4,Sm SUV,N,Natural,Regular,None,N
+Mitsubishi,Eclipse Cross 4WD,25.3444,CVT,8,4WD,1.5,4,Sm SUV,Y,Turbo,Regular,None,N
+Dodge,Durango RWD,21.4537,Automatic,8,RWD,3.6,6,Std SUV,N,Natural,Regular,None,Y
+Dodge,Durango RWD,16.9243,Automatic,8,RWD,5.7,8,Std SUV,N,Natural,Mid,None,N
+Jeep,Grand Cherokee 2WD,21.4537,Automatic,8,RWD,3.6,6,Std SUV,N,Natural,Regular,None,Y
+BMW,X5 xDrive50i,18.1312,Automatic,8,AWD,4.4,8,Std SUV,Y,Turbo,Premium,None,Y
+BMW,X5 M50i,18.1312,Automatic,8,AWD,4.4,8,Std SUV,Y,Turbo,Premium,None,Y
+BMW,X6 M50i,18.1312,Automatic,8,AWD,4.4,8,Std SUV,Y,Turbo,Premium,None,Y
+BMW,X7 xDrive50i,17.2627,Automatic,8,AWD,4.4,8,Std SUV,Y,Turbo,Premium,None,Y
+BMW,X7 M50i,17.2627,Automatic,8,AWD,4.4,8,Std SUV,Y,Turbo,Premium,None,Y
+Dodge,Durango AWD,20.7754,Automatic,8,AWD,3.6,6,Std SUV,N,Natural,Regular,None,Y
+Dodge,Durango AWD,16.6887,Automatic,8,AWD,5.7,8,Std SUV,N,Natural,Mid,None,N
+Jeep,Grand Cherokee 4WD,20.7754,Automatic,8,AWD,3.6,6,Std SUV,N,Natural,Regular,None,Y
+Jeep,Grand Cherokee 4WD,16.6887,Automatic,8,AWD,5.7,8,Std SUV,N,Natural,Mid,None,N
+Land Rover,Discovery,17.7171,Automatic,8,4WD,3,6,Std SUV,Y,Super,Premium,None,Y
+Land Rover,Discovery,22.6844,Automatic,8,4WD,3,6,Std SUV,N,Turbo,Diesel,Diesel,Y
+Maserati,Levante S,17.1134,Automatic,8,AWD,3,6,Std SUV,Y,Turbo,Premium,None,Y
+Maserati,Levante,17.1134,Automatic,8,AWD,3,6,Std SUV,Y,Turbo,Premium,None,Y
+Maserati,Levante GTS,15.3607,Automatic,8,AWD,3.8,8,Std SUV,Y,Turbo,Premium,None,Y
+Maserati,Levante Trofeo,15.3607,Automatic,8,AWD,3.8,8,Std SUV,Y,Turbo,Premium,None,Y
+Mercedes-Benz,GLS450 4matic,20.6956,Automatic,9,4WD,3,6,Std SUV,Y,Turbo,Premium,Hybrid,Y
+Mercedes-Benz,SL550,20.2956,Automatic,9,RWD,4.7,8,Two Seater,Y,Turbo,Premium,None,Y
+Mercedes-Benz,SL450,22.4994,Automatic,9,RWD,3,6,Two Seater,Y,Turbo,Premium,None,Y
+Chevrolet,Camaro,18.6287,Manual,6,RWD,6.2,8,Subcompact,Y,Natural,Premium,None,N
+Mercedes-Benz,E450 Coupe,22.9182,Automatic,9,RWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,E450 4matic Coupe,21.739,Automatic,9,4WD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,E450 Convertible,22.6853,Automatic,9,RWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,E450 4matic Convertible,21.8041,Automatic,9,4WD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+Nissan,Versa,35.088,CVT,1,FWD,1.6,4,Compact,N,Natural,Regular,None,N
+Nissan,Versa,30,Manual,5,FWD,1.6,4,Compact,N,Natural,Regular,None,N
+Ford,Fusion FWD,27.1647,Automatic,6,FWD,1.5,4,Midsize,Y,Turbo,Regular,None,Y
+Ford,Fusion AWD,23.1356,Automatic,6,AWD,2,4,Midsize,Y,Turbo,Regular,None,N
+Ford,Fusion FWD,24.8156,Automatic,6,FWD,2,4,Midsize,Y,Turbo,Regular,None,Y
+Ford,Fusion FWD,24.3707,Automatic,6,FWD,2.5,4,Midsize,N,Natural,Regular,None,N
+Ford,Fusion Hybrid FWD,42,CVT,1,FWD,2,4,Midsize,N,Natural,Regular,Hybrid,Y
+Ford,Fusion Hybrid Taxi,41,CVT,1,FWD,2,4,Midsize,N,Natural,Regular,Hybrid,Y
+Lincoln,MKZ AWD,23.1356,Automatic,6,AWD,2,4,Midsize,Y,Turbo,Regular,None,N
+Lincoln,MKZ FWD,23.8346,Automatic,6,FWD,2,4,Midsize,Y,Turbo,Regular,None,N
+Lincoln,MKZ AWD,19.9357,Automatic,6,AWD,3,6,Midsize,Y,Turbo,Regular,None,N
+Lincoln,MKZ FWD,20.9122,Automatic,6,FWD,3,6,Midsize,Y,Turbo,Regular,None,N
+Lincoln,MKZ Hybrid FWD,41,CVT,1,FWD,2,4,Midsize,N,Natural,Regular,Hybrid,Y
+Mercedes-Benz,E450 4matic,22.7114,Automatic,9,4WD,3,6,Midsize,Y,Turbo,Premium,None,Y
+MINI,Cooper S Countryman,27.5119,Manual,7,FWD,2,4,Midsize,Y,Turbo,Premium,None,N
+Toyota,Avalon XLE,25.9247,Automatic,8,FWD,3.5,6,Midsize,Y,Natural,Regular,None,N
+Toyota,Avalon,24.9381,Automatic,8,FWD,3.5,6,Midsize,Y,Natural,Regular,None,N
+Toyota,Avalon Hybrid,43.2262,CVT,6,FWD,2.5,4,Midsize,Y,Natural,Regular,Hybrid,Y
+Toyota,Avalon Hybrid XLE,43.6328,CVT,6,FWD,2.5,4,Midsize,Y,Natural,Regular,Hybrid,Y
+Mercedes-Benz,S450,21.973,Automatic,9,RWD,3,6,Large,Y,Turbo,Premium,None,Y
+Mercedes-Benz,S450 4matic,21.7132,Automatic,9,4WD,3,6,Large,Y,Turbo,Premium,None,Y
+Mercedes-Benz,E450 4matic (station wagon),21.8116,Automatic,9,4WD,3,6,Mid St Wagon,Y,Turbo,Premium,None,Y
+Chevrolet,Silverado 2WD,17,Automatic,6,RWD,4.3,6,Std Pickup Truck,Y,Natural,Regular,None,N
+Chevrolet,Silverado 2WD,19.3275,Automatic,8,RWD,5.3,8,Std Pickup Truck,Y,Natural,Regular,None,Y
+Chevrolet,Silverado 2WD,20.0462,Automatic,8,RWD,2.7,4,Std Pickup Truck,Y,Turbo,Regular,None,Y
+Chevrolet,Silverado 2WD,26.5885,Automatic,10,RWD,3,6,Std Pickup Truck,N,Turbo,Diesel,Diesel,Y
+Chevrolet,Silverado 2WD,16.9515,Automatic,6,RWD,5.3,8,Std Pickup Truck,Y,Natural,Regular,None,N
+Chevrolet,Silverado 2WD,16.307,Automatic,6,RWD,5.3,8,Std Pickup Truck,Y,Natural,Regular,FFV,N
+Chevrolet,Silverado 2WD,21.0999,Automatic,8,RWD,2.7,4,Std Pickup Truck,Y,Turbo,Regular,None,Y
+GMC,Sierra 2WD,17,Automatic,6,RWD,4.3,6,Std Pickup Truck,Y,Natural,Regular,None,N
+GMC,Sierra 2WD,19.2176,Automatic,8,RWD,5.3,8,Std Pickup Truck,Y,Natural,Regular,None,Y
+GMC,Sierra 2WD,20.0462,Automatic,8,RWD,2.7,4,Std Pickup Truck,Y,Turbo,Regular,None,Y
+GMC,Sierra 2WD,25.9462,Automatic,10,RWD,3,6,Std Pickup Truck,N,Turbo,Diesel,Diesel,Y
+GMC,Sierra 2WD,16.9515,Automatic,6,RWD,5.3,8,Std Pickup Truck,Y,Natural,Regular,None,N
+GMC,Sierra 2WD,16.307,Automatic,6,RWD,5.3,8,Std Pickup Truck,Y,Natural,Regular,FFV,N
+GMC,Sierra 2WD,21.0999,Automatic,8,RWD,2.7,4,Std Pickup Truck,Y,Turbo,Regular,None,Y
+Toyota,Tundra 2WD,14.9383,Automatic,6,FWD,5.7,8,Std Pickup Truck,N,Natural,Regular,None,N
+Chevrolet,Silverado 4WD,18,Automatic,8,4WD,5.3,8,Std Pickup Truck,Y,Natural,Regular,None,Y
+Chevrolet,Silverado 4WD TrailBoss,18.2856,Automatic,8,4WD,5.3,8,Std Pickup Truck,Y,Natural,Regular,None,Y
+Chevrolet,Silverado 4WD,18.635,Automatic,10,4WD,5.3,8,Std Pickup Truck,Y,Natural,Regular,None,Y
+Chevrolet,Silverado 4WD TrailBoss,18,Automatic,10,4WD,5.3,8,Std Pickup Truck,Y,Natural,Regular,None,Y
+Chevrolet,Silverado 4WD,20.0462,Automatic,8,4WD,2.7,4,Std Pickup Truck,Y,Turbo,Regular,None,Y
+Chevrolet,Silverado 4WD,17.2229,Automatic,10,4WD,6.2,8,Std Pickup Truck,Y,Natural,Premium,None,Y
+Chevrolet,Silverado 4WD,16.939,Automatic,6,4WD,5.3,8,Std Pickup Truck,Y,Natural,Regular,None,N
+Chevrolet,Silverado 4WD TrailBoss,15.8234,Automatic,6,4WD,5.3,8,Std Pickup Truck,Y,Natural,Regular,None,N
+Chevrolet,Silverado 4WD,15.7301,Automatic,6,4WD,5.3,8,Std Pickup Truck,Y,Natural,Regular,FFV,N
+Chevrolet,Silverado 4WD,25.1332,Automatic,10,4WD,3,6,Std Pickup Truck,N,Turbo,Diesel,Diesel,Y
+Chevrolet,Silverado 4WD,20.039,Automatic,8,4WD,2.7,4,Std Pickup Truck,Y,Turbo,Regular,None,Y
+Chevrolet,Silverado 4WD,16.724,Automatic,6,4WD,4.3,6,Std Pickup Truck,Y,Natural,Regular,None,N
+Chevrolet,Silverado 4WD TrailBoss,16,Automatic,6,4WD,4.3,6,Std Pickup Truck,Y,Natural,Regular,None,N
+GMC,Sierra 4WD,18.1521,Automatic,8,4WD,5.3,8,Std Pickup Truck,Y,Natural,Regular,None,Y
+GMC,Sierra 4WD AT4,18.2856,Automatic,8,4WD,5.3,8,Std Pickup Truck,Y,Natural,Regular,None,Y
+GMC,Sierra 4WD,18.5543,Automatic,10,4WD,5.3,8,Std Pickup Truck,Y,Natural,Regular,None,Y
+GMC,Sierra 4WD AT4,18,Automatic,10,4WD,5.3,8,Std Pickup Truck,Y,Natural,Regular,None,Y
+GMC,Sierra 4WD,20.0462,Automatic,8,4WD,2.7,4,Std Pickup Truck,Y,Turbo,Regular,None,Y
+GMC,Sierra 4WD,16.9303,Automatic,10,4WD,6.2,8,Std Pickup Truck,Y,Natural,Premium,None,Y
+GMC,Sierra 4WD AT4,17.2528,Automatic,10,4WD,6.2,8,Std Pickup Truck,Y,Natural,Premium,None,Y
+GMC,Sierra 4WD,16.79,Automatic,6,4WD,5.3,8,Std Pickup Truck,Y,Natural,Regular,None,N
+GMC,Sierra 4WD AT4,16,Automatic,6,4WD,5.3,8,Std Pickup Truck,Y,Natural,Regular,None,N
+GMC,Sierra 4WD,23.8267,Automatic,10,4WD,3,6,Std Pickup Truck,N,Turbo,Diesel,Diesel,Y
+GMC,Sierra 4WD AT4,23.8267,Automatic,10,4WD,3,6,Std Pickup Truck,N,Turbo,Diesel,Diesel,Y
+GMC,Sierra 4WD,20.039,Automatic,8,4WD,2.7,4,Std Pickup Truck,Y,Turbo,Regular,None,Y
+GMC,Sierra 4WD,16.724,Automatic,6,4WD,4.3,6,Std Pickup Truck,Y,Natural,Regular,None,N
+Toyota,Tundra 4WD,14.4695,Automatic,6,PT 4WD,5.7,8,Std Pickup Truck,N,Natural,Regular,None,N
+Chevrolet,Silverado Cab Chassis 2WD,17,Automatic,6,RWD,4.3,6,SPV,Y,Natural,Regular,None,N
+Chevrolet,Silverado Cab Chassis 4WD,15,Automatic,6,4WD,5.3,8,SPV,Y,Natural,Regular,None,N
+Chevrolet,Silverado Cab Chassis 2WD,15.2644,Automatic,6,RWD,5.3,8,SPV,Y,Natural,Regular,None,N
+Chevrolet,Silverado Cab Chassis 4WD,14.9623,Automatic,6,4WD,4.3,6,SPV,Y,Natural,Regular,None,N
+GMC,Sierra Cab Chassis 2WD,17,Automatic,6,RWD,4.3,6,SPV,Y,Natural,Regular,None,N
+GMC,Sierra Cab Chassis 4WD,14.9623,Automatic,6,4WD,4.3,6,SPV,Y,Natural,Regular,None,N
+GMC,Sierra Cab Chassis 4WD,15,Automatic,6,4WD,5.3,8,SPV,Y,Natural,Regular,None,N
+GMC,Sierra Cab Chassis 2WD,15.2644,Automatic,6,RWD,5.3,8,SPV,Y,Natural,Regular,None,N
+Cadillac,XT5 FWD,21.0733,Automatic,9,FWD,3.6,6,Sm SUV,Y,Natural,Regular,None,Y
+Chevrolet,Blazer FWD,23.0837,Automatic,9,FWD,2.5,4,Sm SUV,Y,Natural,Regular,None,Y
+Jeep,Compass FWD,25.4013,Automatic,6,FWD,2.4,4,Sm SUV,N,Natural,Regular,None,Y
+Jeep,Compass FWD,26.1675,Manual,6,FWD,2.4,4,Sm SUV,N,Natural,Regular,None,N
+Mercedes-Benz,GLC300,24.2628,Automatic,9,RWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+BMW,X3 sDrive30i,26.574,Automatic,8,RWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Cadillac,XT5 AWD,20.3484,Automatic,9,AWD,3.6,6,Sm SUV,Y,Natural,Regular,None,Y
+Jeep,Compass 4WD,24.8726,Automatic,9,AWD,2.4,4,Sm SUV,N,Natural,Regular,None,Y
+Jeep,Compass 4WD,25.0366,Manual,6,AWD,2.4,4,Sm SUV,N,Natural,Regular,None,N
+Mercedes-Benz,GLC300 4matic,23.5319,Automatic,9,4WD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+GMC,Acadia FWD,23.0837,Automatic,9,FWD,2.5,4,Std SUV,Y,Natural,Regular,None,Y
+GMC,Acadia FWD,21.5304,Automatic,9,FWD,3.6,6,Std SUV,Y,Natural,Regular,None,Y
+Toyota,Sequoia 2WD,14.8192,Automatic,6,RWD,5.7,8,Std SUV,N,Natural,Regular,None,N
+GMC,Acadia AWD,20.5591,Automatic,9,AWD,3.6,6,Std SUV,Y,Natural,Regular,None,Y
+Toyota,Sequoia 4WD,14.3605,Automatic,6,PT 4WD,5.7,8,Std SUV,N,Natural,Regular,None,N
+Ferrari,F8 Tributo,16.3165,Manual,7,RWD,3.9,8,Two Seater,Y,Turbo,Premium,None,Y
+Honda,Civic 2Dr,30,Manual,6,FWD,1.5,4,Compact,Y,Turbo,Premium,None,N
+Mazda,3 4-Door 2WD,29.618,Automatic,6,FWD,2.5,4,Compact,Y,Natural,Regular,None,N
+Mazda,3 4-Door 2WD,30.177,Automatic,6,FWD,2.5,4,Compact,Y,Natural,Regular,None,N
+Mercedes-Benz,C300 4matic,26.2415,Automatic,9,4WD,2,4,Compact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,C300,27.9657,Automatic,9,RWD,2,4,Compact,Y,Turbo,Premium,None,Y
+Honda,Civic 4Dr,30,Manual,6,FWD,1.5,4,Midsize,Y,Turbo,Premium,None,N
+MINI,Cooper S Clubman All4,26.3903,Automatic,8,AWD,2,4,Midsize,Y,Turbo,Premium,None,Y
+Chevrolet,Silverado 2WD,19.8308,Automatic,8,RWD,5.3,8,Std Pickup Truck,Y,Natural,Regular,None,Y
+GMC,Sierra 2WD,19.8308,Automatic,8,RWD,5.3,8,Std Pickup Truck,Y,Natural,Regular,None,Y
+Chrysler,Pacifica,22.2452,Automatic,9,FWD,3.6,6,Minivan,N,Natural,Regular,None,Y
+Chrysler,Voyager,22.2452,Automatic,9,FWD,3.6,6,Minivan,N,Natural,Regular,None,Y
+Honda,Odyssey,22.4504,Automatic,10,FWD,3.5,6,Minivan,Y,Natural,Regular,None,Y
+Mercedes-Benz,GLC300 4matic Coupe,23.7303,Automatic,9,4WD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Volvo,XC90 AWD,20.7216,Automatic,8,AWD,2,4,Std SUV,Y,Super+Turbo,Premium,None,Y
+Ford,Fusion Energi Plug-in Hybrid,41.7,CVT,1,FWD,2,4,Midsize,N,Natural,Regular,Plug-in Hybrid,Y
+Ford,Fusion Special Service PHEV,41.5,CVT,1,FWD,2,4,Midsize,N,Natural,Regular,Plug-in Hybrid,Y
+Aston Martin,DBS,17.0315,Automatic,8,RWD,5.2,12,Minicompact,N,Turbo,Premium,None,N
+Lotus,Evora,18.9178,Manual,6,RWD,3.5,6,Minicompact,N,Super,Premium,None,N
+Lotus,Evora,19.5953,Automatic,6,RWD,3.5,6,Minicompact,N,Super,Premium,None,N
+Lotus,Evora GT,20.021,Manual,6,RWD,3.5,6,Minicompact,N,Super,Premium,None,N
+Lotus,Evora GT,19.8407,Automatic,6,RWD,3.5,6,Minicompact,N,Super,Premium,None,N
+Mercedes-Benz,C300 Coupe,25.1372,Automatic,9,RWD,2,4,Subcompact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,C300 4matic Coupe,24.6703,Automatic,9,4WD,2,4,Subcompact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,C300 4matic Convertible,23.7755,Automatic,9,4WD,2,4,Subcompact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,C300 Convertible,23.8668,Automatic,9,RWD,2,4,Subcompact,Y,Turbo,Premium,None,Y
+Lexus,ES 350,25.5162,Automatic,8,FWD,3.5,6,Midsize,Y,Natural,Regular,None,N
+Lexus,ES 350 F Sport,25.0685,Automatic,8,FWD,3.5,6,Midsize,Y,Natural,Regular,None,N
+Lexus,ES 300h,44.0943,CVT,6,FWD,2.5,4,Midsize,Y,Natural,Regular,Hybrid,Y
+Nissan,Maxima,24.2133,CVT,7,FWD,3.5,6,Midsize,N,Natural,Premium,None,N
+Toyota,Prius,52.2434,CVT,1,FWD,1.8,4,Midsize,N,Natural,Regular,Hybrid,Y
+Toyota,Prius AWD,50,CVT,1,PT 4WD,1.8,4,Midsize,N,Natural,Regular,Hybrid,Y
+Toyota,Prius Eco,55.7,CVT,1,FWD,1.8,4,Midsize,N,Natural,Regular,Hybrid,Y
+Porsche,Panamera,22,Manual,8,RWD,3,6,Large,Y,Turbo,Premium,None,Y
+Porsche,Panamera 4,22.3176,Manual,8,4WD,3,6,Large,Y,Turbo,Premium,None,Y
+Porsche,Panamera 4 Executive,22.3176,Manual,8,4WD,3,6,Large,Y,Turbo,Premium,None,Y
+Porsche,Panamera 4 ST,21.9285,Manual,8,4WD,3,6,Large,Y,Turbo,Premium,None,Y
+Porsche,Panamera 4S,21,Manual,8,4WD,2.9,6,Large,Y,Turbo,Premium,None,Y
+Porsche,Panamera 4S Executive,21,Manual,8,4WD,2.9,6,Large,Y,Turbo,Premium,None,Y
+Porsche,Panamera 4S ST,20,Manual,8,4WD,2.9,6,Large,Y,Turbo,Premium,None,Y
+Porsche,Panamera GTS,18.8765,Manual,8,AWD,4,8,Large,Y,Turbo,Premium,None,Y
+Porsche,Panamera GTS ST,18.2114,Manual,8,AWD,4,8,Large,Y,Turbo,Premium,None,Y
+Porsche,Panamera Turbo,20.9847,Manual,8,AWD,4,8,Large,Y,Turbo,Premium,None,Y
+Porsche,Panamera Turbo Exec,20.9847,Manual,8,AWD,4,8,Large,Y,Turbo,Premium,None,Y
+Porsche,Panamera Turbo ST,19.7064,Manual,8,AWD,4,8,Large,Y,Turbo,Premium,None,Y
+Mercedes-Benz,Metris (Passenger Van),21.4657,Automatic,7,RWD,2,4,SPV,Y,Turbo,Premium,None,Y
+Mercedes-Benz,Metris (Cargo Van),22.3437,Automatic,7,RWD,2,4,SPV,Y,Turbo,Premium,None,Y
+Mercedes-Benz,"Metris (Cargo Van, LWB)",22.472,Automatic,7,RWD,2,4,SPV,Y,Turbo,Premium,None,Y
+Mercedes-Benz,Metris (Passenger Van),20.8058,Automatic,7,RWD,2,4,SPV,Y,Turbo,Premium,None,N
+Mercedes-Benz,Metris (Cargo Van),21.7289,Automatic,7,RWD,2,4,SPV,Y,Turbo,Premium,None,N
+Mercedes-Benz,"Metris (Cargo Van, LWB)",21.9313,Automatic,7,RWD,2,4,SPV,Y,Turbo,Premium,None,N
+Ram,Promaster City,23.7776,Automatic,9,FWD,2.4,4,SPV,N,Natural,Regular,None,N
+Ford,Explorer HEV RWD,27.6521,Automatic,10,RWD,3.3,6,Std SUV,Y,Natural,Regular,Hybrid,Y
+Toyota,4Runner 2WD,17.4613,Automatic,5,RWD,4,6,Std SUV,N,Natural,Regular,None,N
+Ford,Explorer HEV AWD,24.5194,Automatic,10,PT 4WD,3.3,6,Std SUV,Y,Natural,Regular,Hybrid,Y
+Toyota,4Runner 4WD,17.0999,Automatic,5,PT 4WD,4,6,Std SUV,N,Natural,Regular,None,N
+Toyota,Land Cruiser Wagon 4WD,14.2639,Automatic,8,4WD,5.7,8,Std SUV,N,Natural,Regular,None,N
+Toyota,4Runner 4WD,17.0999,Automatic,5,AWD,4,6,Std SUV,N,Natural,Regular,None,N
+Chrysler,Pacifica Hybrid,29.5207,CVT,1,FWD,3.6,6,Minivan,N,Natural,Regular,Plug-in Hybrid,Y
+Volvo,S60 AWD PHEV,30.3,Automatic,8,AWD,2,4,Compact,Y,Natural,Premium,Plug-in Hybrid,Y
+Volvo,S90 AWD PHEV,29.7,Automatic,8,AWD,2,4,Midsize,Y,Natural,Premium,Plug-in Hybrid,Y
+Volvo,V60 AWD PHEV,30.3,Automatic,8,AWD,2,4,Sm St Wagon,Y,Natural,Premium,Plug-in Hybrid,Y
+Volvo,XC60 AWD PHEV,26.6,Automatic,8,AWD,2,4,Sm SUV,Y,Natural,Premium,Plug-in Hybrid,Y
+Volvo,XC90 AWD PHEV,26.8,Automatic,8,AWD,2,4,Std SUV,Y,Natural,Premium,Plug-in Hybrid,Y
+Toyota,86,26.9993,Automatic,6,RWD,2,4,Minicompact,Y,Natural,Premium,None,N
+Toyota,86,23.7198,Manual,6,RWD,2,4,Minicompact,Y,Natural,Premium,None,N
+Ford,Mustang,24.3461,Manual,6,RWD,2.3,4,Subcompact,Y,Turbo,Regular,None,N
+Ford,Mustang,25.0787,Automatic,10,RWD,2.3,4,Subcompact,Y,Turbo,Regular,None,N
+Ford,Mustang,18.3457,Manual,6,RWD,5,8,Subcompact,N,Natural,Regular,None,N
+Ford,Mustang Convertible,23,Manual,6,RWD,2.3,4,Subcompact,Y,Turbo,Regular,None,N
+Ford,Mustang Convertible,23.043,Automatic,10,RWD,2.3,4,Subcompact,Y,Turbo,Regular,None,N
+Ford,Mustang,18.8281,Automatic,10,RWD,5,8,Subcompact,N,Natural,Regular,None,N
+Ford,Mustang Convertible,18.3437,Automatic,10,RWD,5,8,Subcompact,N,Natural,Regular,None,N
+Ford,Mustang HO Coupe,23,Automatic,10,RWD,2.3,4,Subcompact,Y,Turbo,Regular,None,N
+Ford,Mustang HO Convertible,23,Automatic,10,RWD,2.3,4,Subcompact,Y,Turbo,Regular,None,N
+Ford,Mustang HO Coupe,22.8518,Manual,6,RWD,2.3,4,Subcompact,Y,Turbo,Regular,None,N
+Ford,Mustang HO Convertible,21.8873,Manual,6,RWD,2.3,4,Subcompact,Y,Turbo,Regular,None,N
+Mercedes-Benz,E350,26.2664,Automatic,9,RWD,2,4,Midsize,Y,Turbo,Premium,None,Y
+GMC,Sierra 4WD,16.1974,Automatic,6,4WD,5.3,8,Std Pickup Truck,Y,Natural,Regular,FFV,N
+Chevrolet,Blazer FWD,21.4398,Automatic,9,FWD,3.6,6,Sm SUV,Y,Natural,Regular,None,Y
+Lexus,RX 350 L,21.9903,Automatic,8,FWD,3.5,6,Sm SUV,Y,Natural,Regular,None,N
+Lexus,RX 350,22.6244,Automatic,8,FWD,3.5,6,Sm SUV,Y,Natural,Regular,None,N
+Chevrolet,Blazer AWD,20.5591,Automatic,9,AWD,3.6,6,Sm SUV,Y,Natural,Regular,None,Y
+Land Rover,Discovery Sport,20.8177,Automatic,9,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Lexus,RX 350 AWD,21.8285,Automatic,8,AWD,3.5,6,Sm SUV,Y,Natural,Regular,None,N
+Lexus,RX 350 L AWD,21.237,Automatic,8,AWD,3.5,6,Sm SUV,Y,Natural,Regular,None,N
+Dodge,Durango SRT AWD,15.1196,Automatic,8,AWD,6.4,8,Std SUV,N,Natural,Premium,None,N
+Jeep,Grand Cherokee SRT 4WD,14.9466,Automatic,8,AWD,6.4,8,Std SUV,N,Natural,Premium,None,N
+Jeep,Grand Cherokee Trackhawk 4WD,13.3061,Automatic,8,AWD,6.2,8,Std SUV,N,Super,Premium,None,N
+Lexus,RX 450h AWD,29.7574,CVT,6,AWD,3.5,6,Std SUV,Y,Natural,Premium,Hybrid,Y
+Lexus,RX 450h L AWD,29,CVT,6,AWD,3.5,6,Std SUV,Y,Natural,Premium,Hybrid,Y
+Lexus,LX 570,13.8684,Automatic,8,4WD,5.7,8,Std SUV,N,Natural,Premium,None,N
+Audi,TT Roadster quattro,25.9952,Manual,7,AWD,2,4,Two Seater,Y,Turbo,Regular,None,Y
+Bentley,Continental GT Convertible,18.9656,Manual,8,AWD,4,8,Minicompact,Y,Turbo,Premium,None,Y
+Porsche,911 Carrera S,20,Manual,8,RWD,3,6,Minicompact,Y,Turbo,Premium,None,Y
+Porsche,911 Carrera S Cabriolet,20,Manual,8,RWD,3,6,Minicompact,Y,Turbo,Premium,None,Y
+Porsche,911 Carrera 4S,20,Manual,8,AWD,3,6,Minicompact,Y,Turbo,Premium,None,Y
+Audi,A3 quattro,24.7718,Manual,7,AWD,2,4,Subcompact,Y,Turbo,Regular,None,Y
+Audi,A3 Cabriolet quattro,24.7718,Manual,7,AWD,2,4,Subcompact,Y,Turbo,Regular,None,Y
+Audi,TT Coupe quattro,25.9952,Manual,7,AWD,2,4,Subcompact,Y,Turbo,Regular,None,Y
+Audi,S3,24.6914,Manual,7,AWD,2,4,Subcompact,Y,Turbo,Premium,None,Y
+Audi,TTS Coupe,25.0431,Manual,7,AWD,2,4,Subcompact,Y,Turbo,Premium,None,Y
+Bentley,Continental GT,18.9656,Manual,8,AWD,4,8,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M8 Coupe,17.0858,Automatic,8,AWD,4.4,8,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M8 Competition Coupe,17.0858,Automatic,8,AWD,4.4,8,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M8 Convertible,17.0858,Automatic,8,AWD,4.4,8,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M8 Competition Convertible,17.0858,Automatic,8,AWD,4.4,8,Subcompact,Y,Turbo,Premium,None,Y
+Ford,Shelby GT350 Mustang,16.1976,Manual,6,RWD,5.2,8,Subcompact,N,Natural,Premium,None,N
+Ford,Mustang Bullitt,17.3194,Manual,6,RWD,5,8,Subcompact,N,Natural,Regular,None,N
+Mercedes-Benz,CLA250 4matic,26.8359,Manual,7,4WD,2,4,Compact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,CLA250,28.4696,Manual,7,FWD,2,4,Compact,Y,Turbo,Premium,None,Y
+Rolls-Royce,Dawn,13.8915,Automatic,8,RWD,6.6,12,Compact,Y,Turbo,Premium,None,N
+Toyota,Yaris,34.2683,Manual,6,FWD,1.5,4,Compact,Y,Natural,Regular,None,N
+Toyota,Yaris,35,Automatic,6,FWD,1.5,4,Compact,Y,Natural,Regular,None,N
+Audi,A6 quattro,27.016,Manual,7,AWD,2,4,Midsize,Y,Turbo,Premium,Hybrid,Y
+BMW,M5,17.0858,Automatic,8,AWD,4.4,8,Midsize,Y,Turbo,Premium,None,Y
+BMW,M5 Competition,17.0858,Automatic,8,AWD,4.4,8,Midsize,Y,Turbo,Premium,None,Y
+BMW,M8 Gran Coupe,17.0858,Automatic,8,AWD,4.4,8,Midsize,Y,Turbo,Premium,None,Y
+Mercedes-Benz,E350 4matic,24.9303,Automatic,9,4WD,2,4,Midsize,Y,Turbo,Premium,None,Y
+Rolls-Royce,Wraith,14.1837,Automatic,8,RWD,6.6,12,Midsize,Y,Turbo,Premium,None,N
+Subaru,Impreza 4-Door,26.2667,Manual,5,AWD,2,4,Midsize,Y,Natural,Regular,None,N
+Subaru,Impreza 4-Door,31.362,CVT,7,AWD,2,4,Midsize,Y,Natural,Regular,None,N
+Subaru,Impreza Sport 4-Door,26.2235,Manual,5,AWD,2,4,Midsize,Y,Natural,Regular,None,N
+Subaru,Impreza Sport 4-Door,30.443,CVT,7,AWD,2,4,Midsize,Y,Natural,Regular,None,N
+Toyota,Camry,26.1901,Automatic,8,FWD,3.5,6,Midsize,Y,Natural,Regular,None,N
+Toyota,Camry XSE,25.6327,Automatic,8,FWD,3.5,6,Midsize,Y,Natural,Regular,None,N
+Toyota,Camry LE/SE,31.8036,Automatic,8,FWD,2.5,4,Midsize,Y,Natural,Regular,None,N
+Toyota,Camry XLE/XSE,31.2823,Automatic,8,FWD,2.5,4,Midsize,Y,Natural,Regular,None,N
+Toyota,Camry,33.9783,Automatic,8,FWD,2.5,4,Midsize,Y,Natural,Regular,None,N
+Toyota,Camry Hybrid LE,51.7504,CVT,6,FWD,2.5,4,Midsize,Y,Natural,Regular,Hybrid,Y
+Toyota,Camry Hybrid XLE/SE,46.2351,CVT,6,FWD,2.5,4,Midsize,Y,Natural,Regular,Hybrid,Y
+Toyota,Camry TRD,25.1187,Automatic,8,FWD,3.5,6,Midsize,Y,Natural,Regular,None,N
+BMW,X1 sDrive28i,27.1815,Automatic,8,FWD,2,4,Large,Y,Turbo,Premium,None,Y
+Rolls-Royce,Phantom,14.391,Automatic,8,RWD,6.7,12,Large,Y,Turbo,Premium,None,N
+Rolls-Royce,Phantom EWB,14.391,Automatic,8,RWD,6.7,12,Large,Y,Turbo,Premium,None,N
+Rolls-Royce,Ghost,13.8915,Automatic,8,RWD,6.6,12,Large,Y,Turbo,Premium,None,N
+Rolls-Royce,Ghost EWB,13.8915,Automatic,8,RWD,6.6,12,Large,Y,Turbo,Premium,None,N
+Subaru,Impreza 5-Door,26.4104,Manual,5,AWD,2,4,Sm St Wagon,Y,Natural,Regular,None,N
+Subaru,Impreza 5-Door,30.765,CVT,7,AWD,2,4,Sm St Wagon,Y,Natural,Regular,None,N
+Subaru,Impreza Sport 5-Door,25.2689,Manual,5,AWD,2,4,Sm St Wagon,Y,Natural,Regular,None,N
+Subaru,Impreza Sport 5-Door,30.2489,CVT,7,AWD,2,4,Sm St Wagon,Y,Natural,Regular,None,N
+Rolls-Royce,Cullinan,14.3027,Automatic,8,AWD,6.7,12,Mid St Wagon,Y,Turbo,Premium,None,N
+Rolls-Royce,Cullinan Black Badge,14.3027,Automatic,8,AWD,6.7,12,Mid St Wagon,Y,Turbo,Premium,None,N
+Toyota,Tacoma 2WD,20.6457,Automatic,6,RWD,3.5,6,Sm Pickup Truck,Y,Natural,Regular,None,N
+Toyota,Tacoma 2WD,21.0804,Automatic,6,RWD,2.7,4,Sm Pickup Truck,N,Natural,Regular,None,N
+Toyota,Tacoma 4WD,19.8415,Automatic,6,PT 4WD,3.5,6,Sm Pickup Truck,Y,Natural,Regular,None,N
+Toyota,Tacoma 4WD,18.4907,Manual,6,PT 4WD,3.5,6,Sm Pickup Truck,Y,Natural,Regular,None,N
+Toyota,Tacoma 4WD,20.0556,Automatic,6,PT 4WD,2.7,4,Sm Pickup Truck,N,Natural,Regular,None,N
+Toyota,Tacoma 4WD D-CAB MT TRD-ORP/PRO,18.3106,Manual,6,PT 4WD,3.5,6,Sm Pickup Truck,Y,Natural,Regular,None,N
+Jeep,Renegade 2WD,26.9515,Automatic,9,FWD,1.3,4,Sm SUV,Y,Turbo,Regular,None,Y
+Jeep,Renegade 2WD,24.8726,Automatic,9,FWD,2.4,4,Sm SUV,N,Natural,Regular,None,N
+Lincoln,Nautilus FWD,23,Automatic,8,FWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Mercedes-Benz,GLA250,27.9066,Manual,7,FWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Mitsubishi,Outlander Sport 2WD,25,CVT,6,FWD,2.4,4,Sm SUV,N,Natural,Regular,None,N
+Audi,Q3 quattro,22.1236,Automatic,8,AWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Jeep,Renegade 4WD,25.5586,Automatic,9,AWD,1.3,4,Sm SUV,Y,Turbo,Regular,None,Y
+Jeep,Renegade 4WD,23.9283,Automatic,9,AWD,2.4,4,Sm SUV,N,Natural,Regular,None,N
+Jeep,Renegade Trailhawk 4WD,23.8332,Automatic,9,AWD,1.3,4,Sm SUV,Y,Turbo,Regular,None,Y
+Mercedes-Benz,GLA250 4matic,25.4592,Manual,7,4WD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Mitsubishi,Outlander 4WD,22,Automatic,6,4WD,3,6,Sm SUV,N,Natural,Premium,None,N
+Mitsubishi,Outlander Sport 4WD,25.22,CVT,6,4WD,2.4,4,Sm SUV,N,Natural,Regular,None,N
+Subaru,Crosstrek AWD,24.9374,Manual,6,AWD,2,4,Sm SUV,Y,Natural,Regular,None,N
+Subaru,Crosstrek AWD,29.8038,CVT,8,AWD,2,4,Sm SUV,Y,Natural,Regular,None,N
+Nissan,Armada 2WD,16.0715,Automatic,7,RWD,5.6,8,Std SUV,Y,Natural,Regular,None,N
+Bentley,Bentayga,17.3377,Automatic,8,AWD,4,8,Std SUV,Y,Turbo,Premium,None,Y
+BMW,X5 xDrive40i,22.2797,Automatic,8,AWD,3,6,Std SUV,Y,Turbo,Premium,None,Y
+BMW,X6 xDrive40i,22.2797,Automatic,8,AWD,3,6,Std SUV,Y,Turbo,Premium,None,Y
+BMW,X7 xDrive40i,21.7788,Automatic,8,AWD,3,6,Std SUV,Y,Turbo,Premium,None,Y
+Lamborghini,Urus,13.9329,Automatic,8,AWD,4,8,Std SUV,Y,Turbo,Premium,None,Y
+Nissan,Armada 4WD,15,Automatic,7,4WD,5.6,8,Std SUV,Y,Natural,Regular,None,N
+Mercedes-Benz,AMG GT C Roadster,16.8371,Manual,7,RWD,4,8,Two Seater,Y,Turbo,Premium,None,Y
+Porsche,911 Carrera 4S Cabriolet,20,Manual,8,AWD,3,6,Minicompact,Y,Turbo,Premium,None,Y
+Honda,Accord 2.0T Sport/Touring,25.9525,Automatic,10,FWD,2,4,Midsize,Y,Turbo,Regular,None,N
+Infiniti,Q50,23.0508,Automatic,7,RWD,3,6,Midsize,Y,Turbo,Premium,None,N
+Infiniti,Q50 AWD,21.8651,Automatic,7,AWD,3,6,Midsize,Y,Turbo,Premium,None,N
+Infiniti,Q50 Red Sport,22.0312,Automatic,7,RWD,3,6,Midsize,Y,Turbo,Premium,None,N
+Infiniti,Q50 Red Sport  AWD,21.9477,Automatic,7,AWD,3,6,Midsize,Y,Turbo,Premium,None,N
+Honda,Accord,29.7143,Manual,6,FWD,1.5,4,Large,Y,Turbo,Regular,None,N
+Honda,Accord,33.3031,CVT,1,FWD,1.5,4,Large,Y,Turbo,Regular,None,N
+Honda,Accord,31.3482,CVT,7,FWD,1.5,4,Large,Y,Turbo,Regular,None,N
+Honda,Accord,25.6759,Manual,6,FWD,2,4,Large,Y,Turbo,Regular,None,N
+Honda,Accord,27.0324,Automatic,10,FWD,2,4,Large,Y,Turbo,Regular,None,N
+Ford,Escape FWD,30.2418,Automatic,8,FWD,1.5,3,Sm SUV,Y,Turbo,Regular,None,Y
+Ford,Edge FWD,23.9752,Automatic,8,FWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Lincoln,Corsair FWD,24.6965,Automatic,8,FWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Nissan,Pathfinder 2WD,22.6338,CVT,1,FWD,3.5,6,Sm SUV,Y,Natural,Regular,None,N
+Ford,Edge AWD,23,Automatic,8,AWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Ford,Edge AWD,21.2789,Automatic,8,AWD,2.7,6,Sm SUV,Y,Turbo,Regular,None,Y
+Ford,Edge AWD,23,Automatic,8,AWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Lincoln,Nautilus AWD,22,Automatic,8,AWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Lincoln,Nautilus AWD,21.2789,Automatic,8,AWD,2.7,6,Sm SUV,Y,Turbo,Regular,None,Y
+Lincoln,Corsair AWD,23.917,Automatic,8,AWD,2.3,4,Sm SUV,Y,Turbo,Regular,None,Y
+Nissan,Pathfinder 4WD,22.1479,CVT,1,4WD,3.5,6,Sm SUV,Y,Natural,Regular,None,N
+Nissan,Pathfinder 4WD Platinum,21.4539,CVT,1,4WD,3.5,6,Sm SUV,Y,Natural,Regular,None,N
+BMW,X5 sDrive40i,22.5876,Automatic,8,RWD,3,6,Std SUV,Y,Turbo,Premium,None,Y
+BMW,X6 sDrive40i,22.5876,Automatic,8,RWD,3,6,Std SUV,Y,Turbo,Premium,None,Y
+Mercedes-Benz,AMG GT R Coupe,16.7621,Manual,7,RWD,4,8,Two Seater,Y,Turbo,Premium,None,Y
+Mercedes-Benz,AMG GT R Roadster,16.7621,Manual,7,RWD,4,8,Two Seater,Y,Turbo,Premium,None,Y
+Toyota,Corolla Hatchback,31.4664,Manual,6,FWD,2,4,Compact,Y,Natural,Regular,None,N
+Toyota,Corolla Hatchback,35.4774,CVT,10,FWD,2,4,Compact,Y,Natural,Regular,None,N
+Toyota,Corolla Hatchback XSE,33.1681,CVT,10,FWD,2,4,Compact,Y,Natural,Regular,None,N
+Hyundai,Venue,31.5397,CVT,1,FWD,1.6,4,Midsize,N,Natural,Regular,None,N
+Hyundai,Venue,30.2128,Manual,6,FWD,1.6,4,Midsize,N,Natural,Regular,None,N
+Nissan,Murano FWD,23.2709,CVT,7,FWD,3.5,6,Mid St Wagon,N,Natural,Regular,None,N
+Nissan,Murano AWD,22.9002,CVT,7,AWD,3.5,6,Mid St Wagon,N,Natural,Regular,None,N
+Infiniti,QX50,26.1476,CVT,8,FWD,2,4,Sm SUV,Y,Turbo,Premium,None,N
+Volkswagen,Atlas Cross Sport,22.1829,Automatic,8,FWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Volkswagen,Tiguan,24.91,Automatic,8,FWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Audi,Q5,24.2823,Automatic,7,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Infiniti,QX50 AWD,25.0911,CVT,8,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,N
+Volkswagen,Tiguan 4motion,22.9512,Automatic,8,AWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Land Rover,Range Rover MHEV,21.4153,Automatic,8,4WD,3,6,Std SUV,Y,Turbo,Premium,Hybrid,Y
+Lexus,GX 460,16.2653,Automatic,6,4WD,4.6,8,Std SUV,N,Natural,Premium,None,N
+BMW,530e,27.0819,Automatic,8,RWD,2,4,Compact,Y,Turbo,Premium,Plug-in Hybrid,Y
+BMW,530e xDrive,25.332,Automatic,8,AWD,2,4,Compact,Y,Turbo,Premium,Plug-in Hybrid,Y
+Mitsubishi,Outlander PHEV,25,Automatic,1,AWD,2,4,Sm SUV,N,Natural,Regular,Plug-in Hybrid,Y
+Porsche,Panamera Turbo S e-Hybrid,20.4,Manual,8,AWD,4,8,Large,Y,Turbo,Premium,Plug-in Hybrid,Y
+Porsche,Panamera Turbo S e-Hybrid Executive,20.4,Manual,8,AWD,4,8,Large,Y,Turbo,Premium,Plug-in Hybrid,Y
+Porsche,Panamera Turbo S e-Hybrid ST,20.4,Manual,8,AWD,4,8,Large,Y,Turbo,Premium,Plug-in Hybrid,Y
+Audi,A3,30.1793,Manual,7,FWD,2,4,Subcompact,Y,Turbo,Regular,None,Y
+Mercedes-Benz,A220 4matic,27.5,Automatic,7,4WD,2,4,Subcompact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,A220,28.3488,Automatic,7,FWD,2,4,Subcompact,Y,Turbo,Premium,None,Y
+Lexus,IS 300 AWD,21,Automatic,6,AWD,3.5,6,Compact,Y,Natural,Premium,None,N
+Lexus,IS 350,22.8206,Automatic,8,RWD,3.5,6,Compact,Y,Natural,Premium,None,N
+Lexus,IS 350 AWD,21,Automatic,6,AWD,3.5,6,Compact,Y,Natural,Premium,None,N
+Lexus,GS F,18.751,Automatic,8,RWD,5,8,Compact,Y,Natural,Premium,None,N
+Lexus,IS 300,24.2954,Automatic,8,RWD,2,4,Compact,Y,Turbo,Premium,None,N
+Mercedes-Benz,AMG GT 63 4matic Plus,17.1795,Automatic,9,4WD,4,8,Compact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,AMG GT 63 S 4matic Plus,17.1261,Automatic,9,4WD,4,8,Compact,Y,Turbo,Premium,None,Y
+Volkswagen,GTI,27.0448,Manual,6,FWD,2,4,Compact,Y,Turbo,Regular,None,N
+Volkswagen,Jetta,27.7257,Manual,6,FWD,2,4,Compact,Y,Turbo,Regular,None,N
+Volkswagen,Jetta,28.0564,Manual,7,FWD,2,4,Compact,Y,Turbo,Regular,None,Y
+BMW,540i,25.37,Automatic,8,RWD,3,6,Midsize,Y,Turbo,Premium,None,Y
+Lexus,GS 350,22.8206,Automatic,8,RWD,3.5,6,Midsize,Y,Natural,Premium,None,N
+Lexus,GS 350 AWD,21,Automatic,6,AWD,3.5,6,Midsize,Y,Natural,Premium,None,N
+Lexus,GS 350 F Sport,21.8089,Automatic,8,RWD,3.5,6,Midsize,Y,Natural,Premium,None,N
+Lexus,LS 500h,27.9367,CVT,10,RWD,3.5,6,Midsize,Y,Natural,Premium,Hybrid,Y
+Lexus,LS 500h AWD,25.7818,CVT,10,AWD,3.5,6,Midsize,Y,Natural,Premium,Hybrid,Y
+Lexus,LS 500,22.8888,Automatic,10,RWD,3.4,6,Midsize,Y,Turbo,Premium,None,N
+Lexus,LS 500 AWD,21.1633,Automatic,10,AWD,3.4,6,Midsize,Y,Turbo,Premium,None,N
+Honda,Accord Hybrid,47.5685,CVT,1,FWD,2,4,Large,N,Natural,Regular,Hybrid,Y
+Alfa Romeo,Stelvio AWD,19.141,Automatic,8,AWD,2.9,6,Sm SUV,Y,Turbo,Premium,None,Y
+Ford,Shelby GT500 Mustang,14.0853,Manual,7,RWD,5.2,8,Subcompact,N,Super,Premium,None,N
+Honda,Civic 2Dr,32.7794,CVT,7,FWD,1.5,4,Compact,Y,Turbo,Regular,None,N
+Honda,Civic 2Dr,34.5202,CVT,1,FWD,1.5,4,Compact,Y,Turbo,Regular,None,N
+Honda,Civic 2Dr,29.0774,Manual,6,FWD,2,4,Compact,N,Natural,Regular,None,N
+Honda,Civic 2Dr,31.5556,CVT,7,FWD,2,4,Compact,N,Natural,Regular,None,N
+Honda,Civic 2Dr,33.3494,CVT,1,FWD,2,4,Compact,N,Natural,Regular,None,N
+Toyota,C-HR,28.8126,CVT,7,FWD,2,4,Compact,N,Natural,Regular,None,N
+Alfa Romeo,Giulia,26.9548,Automatic,8,RWD,2,4,Midsize,Y,Turbo,Premium,None,Y
+Alfa Romeo,Giulia AWD,25.5433,Automatic,8,AWD,2,4,Midsize,Y,Turbo,Premium,None,Y
+Alfa Romeo,Giulia,20.3144,Automatic,8,RWD,2.9,6,Midsize,Y,Turbo,Premium,None,Y
+Honda,Civic 4Dr,33.2383,CVT,7,FWD,1.5,4,Midsize,Y,Turbo,Regular,None,N
+Honda,Civic 4Dr,35.6082,CVT,1,FWD,1.5,4,Midsize,Y,Turbo,Regular,None,N
+Honda,Civic 4Dr,29.4217,Manual,6,FWD,2,4,Midsize,N,Natural,Regular,None,N
+Honda,Civic 4Dr,32.0019,CVT,7,FWD,2,4,Midsize,N,Natural,Regular,None,N
+Honda,Civic 4Dr,33.0274,CVT,1,FWD,2,4,Midsize,N,Natural,Regular,None,N
+Ram,1500 2WD,26.0473,Automatic,8,RWD,3,6,Std Pickup Truck,N,Turbo,Diesel,Diesel,N
+Ram,1500 4WD,24.2793,Automatic,8,4WD,3,6,Std Pickup Truck,N,Turbo,Diesel,Diesel,N
+Nissan,NV200 Cargo Van,25.1814,CVT,1,FWD,2,4,SPV,N,Natural,Regular,None,N
+Alfa Romeo,Stelvio,25.3266,Automatic,8,RWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Alfa Romeo,Stelvio AWD,24.4128,Automatic,8,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Volkswagen,Atlas Cross Sport 4motion,20.0891,Automatic,8,AWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Lamborghini,Aventador Coupe,10.9357,Manual,7,AWD,6.5,12,Two Seater,N,Natural,Premium,None,Y
+Lamborghini,Aventador Roadster,10.7137,Manual,7,AWD,6.5,12,Two Seater,N,Natural,Premium,None,Y
+Infiniti,Q60,22.4496,Automatic,7,RWD,3,6,Subcompact,Y,Turbo,Premium,None,N
+Infiniti,Q60 Red Sport,22,Automatic,7,RWD,3,6,Subcompact,Y,Turbo,Premium,None,N
+Infiniti,Q60 Red Sport AWD,21,Automatic,7,AWD,3,6,Subcompact,Y,Turbo,Premium,None,N
+Infiniti,Q60 AWD,21.7714,Automatic,7,AWD,3,6,Subcompact,Y,Turbo,Premium,None,N
+Acura,ILX,27.9249,Manual,8,FWD,2.4,4,Compact,Y,Natural,Premium,None,N
+Ford,F150 Pickup 2WD FFV,21.7173,Automatic,6,RWD,3.3,6,Std Pickup Truck,N,Natural,Regular,FFV,Y
+Ford,F150 Pickup 2WD FFV,19.023,Automatic,10,RWD,5,8,Std Pickup Truck,Y,Natural,Regular,FFV,Y
+Ford,F150 2WD FFV BASE PAYLOAD LT,18,Automatic,10,RWD,5,8,Std Pickup Truck,Y,Natural,Regular,FFV,Y
+Ford,F150 5.0L 2WD FFV GVWR>7599 LBS,17,Automatic,10,RWD,5,8,Std Pickup Truck,Y,Natural,Regular,FFV,Y
+Ford,F150 Pickup 2WD,19.0102,Automatic,10,RWD,3.5,6,Std Pickup Truck,Y,Turbo,Regular,None,Y
+Ford,F150 Pickup 2WD Limited,19.0111,Automatic,10,RWD,3.5,6,Std Pickup Truck,Y,Turbo,Regular,None,Y
+Ford,F150 Pickup 2WD,22.1016,Automatic,10,RWD,2.7,6,Std Pickup Truck,Y,Turbo,Regular,None,Y
+Ford,F150 Pickup 4WD FFV,20.2236,Automatic,6,PT 4WD,3.3,6,Std Pickup Truck,N,Natural,Regular,FFV,Y
+Ford,F150 Pickup 4WD FFV,17.5403,Automatic,10,PT 4WD,5,8,Std Pickup Truck,Y,Natural,Regular,FFV,Y
+Ford,F150 Pickup 4WD,18.1783,Automatic,10,PT 4WD,3.5,6,Std Pickup Truck,Y,Turbo,Regular,None,Y
+Ford,F150 Pickup 4WD Limited,18.8698,Automatic,10,PT 4WD,3.5,6,Std Pickup Truck,Y,Turbo,Regular,None,Y
+Ford,F150 RAPTOR 4WD,16.4075,Automatic,10,PT 4WD,3.5,6,Std Pickup Truck,Y,Turbo,Regular,None,Y
+Ford,F150 Pickup 4WD,20.3813,Automatic,10,PT 4WD,2.7,6,Std Pickup Truck,Y,Turbo,Regular,None,Y
+Mercedes-Benz,GLB250,25.5879,Manual,8,FWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Toyota,RAV4,29.8882,Automatic,8,FWD,2.5,4,Sm SUV,Y,Natural,Regular,None,N
+Toyota,RAV4,30.3957,Automatic,8,FWD,2.5,4,Sm SUV,Y,Natural,Regular,None,Y
+Volkswagen,Atlas,21.6896,Automatic,8,FWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Mercedes-Benz,GLB250 4matic,26.096800000000002,Manual,8,4WD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Toyota,RAV4 AWD,28.0938,Automatic,8,AWD,2.5,4,Sm SUV,Y,Natural,Regular,None,N
+Toyota,RAV4 AWD,29.2767,Automatic,8,AWD,2.5,4,Sm SUV,Y,Natural,Regular,None,Y
+Toyota,RAV4 Hybrid AWD,40.175,CVT,6,AWD,2.5,4,Sm SUV,Y,Natural,Regular,Hybrid,Y
+Toyota,RAV4 AWD TRD OFFROAD,27.4302,Automatic,8,AWD,2.5,4,Sm SUV,Y,Natural,Regular,None,N
+Toyota,RAV4 AWD LE,29.8215,Automatic,8,AWD,2.5,4,Sm SUV,Y,Natural,Regular,None,Y
+Mercedes-Benz,AMG G63,13.8444,Automatic,9,4WD,4,8,Std SUV,Y,Turbo,Premium,None,Y
+Acura,NSX Hybrid,21,Manual,9,AWD,3.5,6,Two Seater,Y,Turbo,Premium,Hybrid,Y
+Mercedes-Benz,S560 Convertible,20.1785,Automatic,9,RWD,4,8,Subcompact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,AMG S63 4matic Plus Convertible,17.9865,Automatic,9,4WD,4,8,Subcompact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,S560 4matic Coupe,20.1091,Automatic,9,4WD,4,8,Compact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,AMG S63 4matic Plus Coupe,20.2762,Automatic,9,4WD,4,8,Compact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,S560,20.5095,Automatic,9,RWD,4,8,Large,Y,Turbo,Premium,None,Y
+Mercedes-Benz,AMG S63 4matic Plus,20.0251,Automatic,9,4WD,4,8,Large,Y,Turbo,Premium,None,Y
+Mercedes-Benz,S560 4matic,20.7551,Automatic,9,4WD,4,8,Large,Y,Turbo,Premium,None,Y
+Mercedes-Benz,S560 4matic Maybach,19.4129,Automatic,9,4WD,4,8,Large,Y,Turbo,Premium,None,Y
+Honda,HR-V FWD,30.25,CVT,1,FWD,1.8,4,Sm St Wagon,N,Natural,Regular,None,N
+Honda,HR-V FWD,30.25,CVT,7,FWD,1.8,4,Sm St Wagon,N,Natural,Regular,None,N
+Honda,HR-V AWD,28.5595,CVT,1,4WD,1.8,4,Sm St Wagon,N,Natural,Regular,None,N
+Honda,HR-V AWD,28.2825,CVT,7,4WD,1.8,4,Sm St Wagon,N,Natural,Regular,None,N
+Fiat,500X AWD,25.9757,Automatic,9,AWD,1.3,4,Sm SUV,Y,Turbo,Regular,None,Y
+Mercedes-Benz,AMG GLC63 4matic Plus,18.1759,Automatic,9,4WD,4,8,Sm SUV,Y,Turbo,Premium,None,Y
+Mercedes-Benz,AMG GLC63 4matic Plus Coupe,18.1716,Automatic,9,4WD,4,8,Sm SUV,Y,Turbo,Premium,None,Y
+Mercedes-Benz,AMG GLC63 S 4matic Plus Coupe,18.1716,Automatic,9,4WD,4,8,Sm SUV,Y,Turbo,Premium,None,Y
+Bugatti,Chiron,10.5921,Manual,7,AWD,8,16,Two Seater,N,Turbo,Premium,None,N
+Mercedes-Benz,AMG SLC43,23.1054,Automatic,9,RWD,3,6,Two Seater,Y,Turbo,Premium,None,Y
+Audi,S5,22.5073,Automatic,8,AWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+Audi,S5 Cabriolet,21.8571,Automatic,8,AWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,AMG C63 S Convertible,19.6981,Automatic,9,RWD,4,8,Subcompact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,AMG C63 Convertible,19.6981,Automatic,9,RWD,4,8,Subcompact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,AMG C63 S Coupe,20.0502,Automatic,9,RWD,4,8,Subcompact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,AMG C63 Coupe,20.0502,Automatic,9,RWD,4,8,Subcompact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,AMG C43 4matic Coupe,21.7146,Automatic,9,4WD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,AMG C43 4matic Convertible,21.0704,Automatic,9,4WD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+Audi,A4,29.9608,Manual,7,FWD,2,4,Compact,Y,Turbo,Premium,None,Y
+Audi,S4,22.5073,Automatic,8,AWD,3,6,Compact,Y,Turbo,Premium,None,Y
+Lexus,UX 250h,42.0612,CVT,6,FWD,2,4,Compact,Y,Natural,Regular,Hybrid,Y
+Lexus,UX 250h AWD,39,CVT,6,AWD,2,4,Compact,Y,Natural,Regular,Hybrid,Y
+Mercedes-Benz,AMG C63,20.9747,Automatic,9,RWD,4,8,Compact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,AMG C63 S,20.9747,Automatic,9,RWD,4,8,Compact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,AMG C43 4matic,21.9176,Automatic,9,4WD,3,6,Compact,Y,Turbo,Premium,None,Y
+Mitsubishi,Mirage,36.398,Manual,5,FWD,1.2,3,Compact,N,Natural,Regular,None,N
+Mitsubishi,Mirage,38.6074,CVT,1,FWD,1.2,3,Compact,N,Natural,Regular,None,N
+Mitsubishi,Mirage G4,35,Manual,5,FWD,1.2,3,Compact,N,Natural,Regular,None,N
+Mitsubishi,Mirage G4,37.3939,CVT,1,FWD,1.2,3,Compact,N,Natural,Regular,None,N
+Volkswagen,GTI,27.0113,Manual,7,FWD,2,4,Compact,Y,Turbo,Regular,None,Y
+Audi,S5 Sportback,22.5073,Automatic,8,AWD,3,6,Midsize,Y,Turbo,Premium,None,Y
+Audi,S6,21.5635,Automatic,8,AWD,2.9,6,Midsize,Y,Turbo,Premium,Hybrid,Y
+Audi,S7,21.5635,Automatic,8,AWD,2.9,6,Midsize,Y,Turbo,Premium,Hybrid,Y
+Audi,S8,16.2313,Automatic,8,AWD,4,8,Large,Y,Turbo,Premium,Hybrid,Y
+BMW,M8 Competition Gran Coupe,17.0858,Automatic,8,AWD,4.4,8,Midsize,Y,Turbo,Premium,None,Y
+Cadillac,CT5,26.1491,Automatic,10,RWD,2,4,Midsize,Y,Turbo,Premium,None,Y
+Cadillac,CT5 AWD,24.7046,Automatic,10,AWD,2,4,Midsize,Y,Turbo,Premium,None,Y
+Lexus,UX 200,32.5226,CVT,10,FWD,2,4,Midsize,Y,Natural,Regular,None,N
+Mercedes-Benz,AMG E63 S 4matic Plus,17.5069,Automatic,9,4WD,4,8,Midsize,Y,Turbo,Premium,None,Y
+Audi,A8 L,17.8756,Automatic,8,AWD,4,8,Large,Y,Turbo,Premium,Hybrid,Y
+Hyundai,Ioniq,54.5885,Manual,6,FWD,1.6,4,Large,Y,Natural,Regular,Hybrid,Y
+Hyundai,Ioniq Blue,57.7824,Manual,6,FWD,1.6,4,Large,Y,Natural,Regular,Hybrid,Y
+Hyundai,Sonata,30.5776,Automatic,8,FWD,2.5,4,Large,Y,Natural,Regular,None,N
+Hyundai,Sonata,31.7911,Automatic,8,FWD,2.5,4,Large,Y,Natural,Regular,None,Y
+Hyundai,Sonata,30.586,Automatic,8,FWD,1.6,4,Large,Y,Turbo,Regular,None,N
+Lincoln,Continental  AWD,19.6658,Automatic,6,AWD,2.7,6,Large,Y,Turbo,Regular,None,N
+Lincoln,Continental  FWD,20.9822,Automatic,6,FWD,2.7,6,Large,Y,Turbo,Regular,None,N
+Lincoln,Continental  AWD,19.0863,Automatic,6,AWD,3,6,Large,Y,Turbo,Regular,None,N
+Lincoln,Continental  AWD,19.2516,Automatic,6,AWD,3.7,6,Large,N,Natural,Regular,None,N
+Lincoln,Continental  FWD,20.1608,Automatic,6,FWD,3.7,6,Large,N,Natural,Regular,None,N
+Mercedes-Benz,AMG E63 S 4matic Plus (wagon),18.5852,Automatic,9,4WD,4,8,Mid St Wagon,Y,Turbo,Premium,None,Y
+Ford,Escape FWD HEV,40.5365,CVT,1,FWD,2.5,4,Sm SUV,N,Natural,Regular,Hybrid,Y
+Honda,Passport FWD,21.8669,Automatic,9,FWD,3.5,6,Sm SUV,Y,Natural,Regular,None,N
+Audi,SQ5,19.9013,Automatic,8,AWD,3,6,Sm SUV,Y,Turbo,Premium,None,Y
+Ford,Escape AWD,25.9423,Automatic,8,AWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Ford,Escape AWD,28,Automatic,8,AWD,1.5,3,Sm SUV,Y,Turbo,Regular,None,Y
+Ford,Escape AWD HEV,39.7753,CVT,1,PT 4WD,2.5,4,Sm SUV,N,Natural,Regular,Hybrid,Y
+Honda,Passport AWD,20.8521,Automatic,9,AWD,3.5,6,Sm SUV,Y,Natural,Regular,None,N
+Land Rover,Evoque MHEV,22.8791,Automatic,9,AWD,2,4,Sm SUV,Y,Turbo,Premium,Hybrid,Y
+Land Rover,Discovery Sport MHEV,21.0989,Automatic,9,AWD,2,4,Sm SUV,Y,Turbo,Premium,Hybrid,Y
+Lincoln,Corsair AWD,24.1114,Automatic,8,AWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Mercedes-Benz,AMG GLC43 4matic,20.5741,Automatic,9,4WD,3,6,Sm SUV,Y,Turbo,Premium,None,Y
+Mercedes-Benz,AMG GLC43 4matic Coupe,20.5323,Automatic,9,4WD,3,6,Sm SUV,Y,Turbo,Premium,None,Y
+Ford,Expedition 2WD,19,Automatic,10,RWD,3.5,6,Std SUV,Y,Turbo,Regular,None,Y
+Ford,Expedition MAX 2WD,19,Automatic,10,RWD,3.5,6,Std SUV,Y,Turbo,Regular,None,Y
+Lincoln,Navigator 2WD,18.5915,Automatic,10,RWD,3.5,6,Std SUV,Y,Turbo,Regular,None,Y
+Lincoln,Navigator L 2WD,17.7425,Automatic,10,RWD,3.5,6,Std SUV,Y,Turbo,Regular,None,Y
+Ford,Expedition 4WD,18.7942,Automatic,10,PT 4WD,3.5,6,Std SUV,Y,Turbo,Regular,None,Y
+Ford,Expedition MAX 4WD,18,Automatic,10,PT 4WD,3.5,6,Std SUV,Y,Turbo,Regular,None,Y
+Lincoln,Navigator 4WD,17.5802,Automatic,10,PT 4WD,3.5,6,Std SUV,Y,Turbo,Regular,None,Y
+Mercedes-Benz,G550,14.4689,Automatic,9,4WD,4,8,Std SUV,Y,Turbo,Premium,None,Y
+Hyundai,Ioniq Plug-in Hybrid,52.3231,Manual,6,FWD,1.6,4,Midsize,Y,Natural,Regular,Plug-in Hybrid,Y
+Karma,Revero GT (21-inch wheels),25.8,Automatic,1,RWD,1.5,3,Subcompact,Y,Turbo,Premium,Plug-in Hybrid,Y
+Subaru,Crosstrek Hybrid AWD,35.1,CVT,1,AWD,2,4,Sm SUV,Y,Natural,Regular,Plug-in Hybrid,Y
+Audi,A6 quattro,24.246,Manual,7,AWD,3,6,Midsize,Y,Turbo,Premium,Hybrid,Y
+Audi,A7 quattro,24.246,Manual,7,AWD,3,6,Midsize,Y,Turbo,Premium,Hybrid,Y
+Audi,A6 Allroad,22.2239,Manual,7,AWD,3,6,Midsize,Y,Turbo,Premium,Hybrid,Y
+Volkswagen,Passat,26.9474,Automatic,6,FWD,2,4,Midsize,Y,Turbo,Regular,None,Y
+Honda,CR-V FWD,30,CVT,1,FWD,1.5,4,Sm SUV,Y,Turbo,Regular,None,N
+Honda,CR-V AWD,29,CVT,1,AWD,1.5,4,Sm SUV,Y,Turbo,Regular,None,N
+Infiniti,QX80 2WD,16.1339,Automatic,7,RWD,5.6,8,Std SUV,Y,Natural,Premium,None,N
+Infiniti,QX80 4WD,15.3391,Automatic,7,4WD,5.6,8,Std SUV,Y,Natural,Premium,None,N
+Audi,RS3,22.5088,Manual,7,AWD,2.5,5,Subcompact,Y,Turbo,Premium,None,N
+Audi,TT RS,22.8005,Manual,7,AWD,2.5,5,Subcompact,Y,Turbo,Premium,None,N
+Mazda,6,29.3866,Automatic,6,FWD,2.5,4,Midsize,Y,Natural,Regular,None,N
+Mazda,6,26.4147,Automatic,6,FWD,2.5,4,Midsize,Y,Turbo,Regular,None,N
+Audi,A8 L,20.5422,Automatic,8,AWD,3,6,Large,Y,Turbo,Premium,Hybrid,Y
+Kia,Niro,48.6987,Manual,6,FWD,1.6,4,Sm St Wagon,Y,Natural,Regular,Hybrid,Y
+Kia,Niro FE,50.4101,Manual,6,FWD,1.6,4,Sm St Wagon,Y,Natural,Regular,Hybrid,Y
+Kia,Niro Touring,43.175,Manual,6,FWD,1.6,4,Sm St Wagon,Y,Natural,Regular,Hybrid,Y
+Audi,Q7,18.4822,Automatic,8,AWD,3,6,Std SUV,Y,Turbo,Premium,Hybrid,Y
+Audi,Q8,18.4822,Automatic,8,AWD,3,6,Std SUV,Y,Turbo,Premium,Hybrid,Y
+Lamborghini,Huracan 2WD,15.0057,Manual,7,RWD,5.2,10,Two Seater,Y,Natural,Premium,None,N
+Lamborghini,Huracan Spyder 2WD,15.0057,Manual,7,RWD,5.2,10,Two Seater,Y,Natural,Premium,None,N
+Lexus,RC 300 AWD,21,Automatic,6,AWD,3.5,6,Subcompact,Y,Natural,Premium,None,N
+Lexus,RC 350,22.8206,Automatic,8,RWD,3.5,6,Subcompact,Y,Natural,Premium,None,N
+Lexus,RC 350 AWD,21,Automatic,6,AWD,3.5,6,Subcompact,Y,Natural,Premium,None,N
+Lexus,RC 300,24.2954,Automatic,8,RWD,2,4,Subcompact,Y,Turbo,Premium,None,N
+Roush Performance,Stage 3 Mustang,15.2813,Manual,6,RWD,5,8,Subcompact,Y,Super,Premium,None,N
+Dodge,Challenger SRT,16.2222,Automatic,8,RWD,6.2,8,Midsize,N,Super,Premium,None,N
+Dodge,Challenger SRT,15.5775,Manual,6,RWD,6.2,8,Midsize,N,Super,Premium,None,N
+Dodge,Challenger SRT Widebody,15.3673,Automatic,8,RWD,6.2,8,Midsize,N,Super,Premium,None,N
+Dodge,Challenger SRT Widebody,15.5775,Manual,6,RWD,6.2,8,Midsize,N,Super,Premium,None,N
+Dodge,Challenger,22.7798,Automatic,8,RWD,3.6,6,Midsize,N,Natural,Regular,None,N
+Dodge,Challenger,17.7608,Automatic,8,RWD,6.4,8,Midsize,N,Natural,Premium,None,N
+Dodge,Challenger,16.9149,Manual,6,RWD,6.4,8,Midsize,N,Natural,Premium,None,N
+Dodge,Challenger Widebody,17.7608,Automatic,8,RWD,6.4,8,Midsize,N,Natural,Premium,None,N
+Dodge,Challenger Widebody,16.9149,Manual,6,RWD,6.4,8,Midsize,N,Natural,Premium,None,N
+Dodge,Challenger AWD,21.4055,Automatic,8,AWD,3.6,6,Midsize,N,Natural,Regular,None,N
+Chrysler,300,22.7798,Automatic,8,RWD,3.6,6,Large,N,Natural,Regular,None,N
+Chrysler,300 AWD,21.4055,Automatic,8,AWD,3.6,6,Large,N,Natural,Regular,None,N
+Dodge,Charger SRT Widebody,15.0483,Automatic,8,RWD,6.2,8,Large,N,Super,Premium,None,N
+Dodge,Charger,22.7798,Automatic,8,RWD,3.6,6,Large,N,Natural,Regular,None,N
+Dodge,Charger,17.7608,Automatic,8,RWD,6.4,8,Large,N,Natural,Premium,None,N
+Dodge,Charger Widebody,17.7608,Automatic,8,RWD,6.4,8,Large,N,Natural,Premium,None,N
+Dodge,Charger AWD,21.4055,Automatic,8,AWD,3.6,6,Large,N,Natural,Regular,None,N
+Nissan,Rogue Sport,28,CVT,8,FWD,2,4,Sm St Wagon,Y,Natural,Regular,None,N
+Nissan,Rogue Sport AWD,27,CVT,8,AWD,2,4,Sm St Wagon,Y,Natural,Regular,None,N
+Ford,Ranger 2WD,23.3249,Automatic,10,RWD,2.3,4,Std Pickup Truck,Y,Turbo,Regular,None,Y
+Ford,Ranger 4WD,21.8642,Automatic,10,PT 4WD,2.3,4,Std Pickup Truck,Y,Turbo,Regular,None,Y
+Ford,Transit T150 Wagon 2WD FFV,16.6229,Automatic,10,RWD,3.5,6,Passenger Van,Y,Natural,Regular,FFV,N
+Ford,Transit T150 Wagon 4WD FFV,15.8294,Automatic,10,AWD,3.5,6,Passenger Van,Y,Natural,Regular,FFV,N
+Ford,Ranger 2WD Incomplete,18.3123,Automatic,10,RWD,2.3,4,SPV,Y,Turbo,Regular,None,Y
+Chevrolet,Blazer FWD,24.0681,Automatic,9,FWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Mazda,CX-5 2WD,27.5485,Automatic,6,FWD,2.5,4,Sm SUV,Y,Natural,Regular,None,N
+Mazda,CX-9 2WD,24.3926,Automatic,6,FWD,2.5,4,Sm SUV,Y,Turbo,Regular,None,N
+Chevrolet,Blazer AWD,23.2617,Automatic,9,AWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Mazda,CX-5 4WD,26.2462,Automatic,6,4WD,2.5,4,Sm SUV,Y,Natural,Regular,None,N
+Mazda,CX-5 4WD,23.8943,Automatic,6,4WD,2.5,4,Sm SUV,Y,Turbo,Regular,None,N
+Mazda,CX-9 4WD,22.6002,Automatic,6,4WD,2.5,4,Sm SUV,Y,Turbo,Regular,None,N
+GMC,Acadia FWD,24.0675,Automatic,9,FWD,2,4,Std SUV,Y,Turbo,Regular,None,Y
+GMC,Acadia AWD,23.2617,Automatic,9,AWD,2,4,Std SUV,Y,Turbo,Regular,None,Y
+Mercedes-Benz,GLE580 4matic,18.9016,Automatic,9,4WD,4,8,Std SUV,Y,Turbo,Premium,Hybrid,Y
+Mercedes-Benz,GLS580 4matic,18.1463,Automatic,9,4WD,4,8,Std SUV,Y,Turbo,Premium,Hybrid,Y
+Kia,Niro Plug-in Hybrid,46.4127,Manual,6,FWD,1.6,4,Sm St Wagon,Y,Natural,Regular,Plug-in Hybrid,Y
+Porsche,Panamera 4 e-Hybrid,22.503,Manual,8,AWD,2.9,6,Large,Y,Turbo,Premium,Plug-in Hybrid,Y
+Porsche,Panamera 4 e-Hybrid Executive,22.503,Manual,8,AWD,2.9,6,Large,Y,Turbo,Premium,Plug-in Hybrid,Y
+Porsche,Panamera 4 e-Hybrid ST,22.503,Manual,8,AWD,2.9,6,Large,Y,Turbo,Premium,Plug-in Hybrid,Y
+Audi,A5 quattro,26.8097,Manual,7,AWD,2,4,Subcompact,Y,Turbo,Premium,None,Y
+Audi,A5 Cabriolet quattro,26.2623,Manual,7,AWD,2,4,Subcompact,Y,Turbo,Premium,None,Y
+Audi,A4 quattro,26.8097,Manual,7,AWD,2,4,Compact,Y,Turbo,Premium,None,Y
+Mazda,CX-3 2WD,30.6953,Automatic,6,FWD,2,4,Compact,Y,Natural,Regular,None,N
+Mazda,CX-3 4WD,29.1658,Automatic,6,4WD,2,4,Compact,Y,Natural,Regular,None,N
+Audi,A5 Sportback quattro,26.8097,Manual,7,AWD,2,4,Midsize,Y,Turbo,Premium,None,Y
+Audi,A4 allroad quattro,26.2623,Manual,7,AWD,2,4,Sm St Wagon,Y,Turbo,Premium,None,Y
+Cadillac,XT5 FWD,24.2204,Automatic,9,FWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+Mazda,CX-30 2WD,28.3285,Automatic,6,FWD,2.5,4,Sm SUV,Y,Natural,Regular,None,N
+Mazda,CX-30 2WD,27.8919,Automatic,6,FWD,2.5,4,Sm SUV,Y,Natural,Regular,None,N
+Cadillac,XT5 AWD,23.1817,Automatic,9,AWD,2,4,Sm SUV,Y,Turbo,Premium,None,Y
+BMW,I8 Coupe,27.1257,Automatic,6,AWD,1.5,3,Subcompact,Y,Turbo,Premium,Plug-in Hybrid,Y
+BMW,I8 Roadster,27.1257,Automatic,6,AWD,1.5,3,Two Seater,Y,Turbo,Premium,Plug-in Hybrid,Y
+MINI,Cooper SE Countryman All4,29.4601,Automatic,6,AWD,1.5,3,Midsize,Y,Turbo,Premium,Plug-in Hybrid,Y
+Land Rover,Range Rover PHEV,19.2332,Automatic,8,4WD,2,4,Std SUV,Y,Turbo,Premium,Plug-in Hybrid,Y
+Land Rover,Range Rover Sport PHEV,19.2332,Automatic,8,4WD,2,4,Std SUV,Y,Turbo,Premium,Plug-in Hybrid,Y
+Lincoln,Aviator PHEV AWD,22.8,Automatic,10,PT 4WD,3,6,Std SUV,Y,Turbo,Regular,Plug-in Hybrid,Y
+Cadillac,CT6 AWD,17.0723,Automatic,10,AWD,4.2,8,Large,Y,Turbo,Premium,None,Y
+Toyota,Highlander,22.8678,Automatic,8,FWD,3.5,6,Sm SUV,Y,Natural,Regular,None,N
+Toyota,Highlander,23.7222,Automatic,8,FWD,3.5,6,Sm SUV,Y,Natural,Regular,None,Y
+Toyota,Highlander AWD,22.8128,Automatic,8,AWD,3.5,6,Sm SUV,Y,Natural,Regular,None,Y
+Bentley,Bentayga,13.6613,Automatic,8,AWD,6,12,Std SUV,Y,Turbo,Premium,None,Y
+Ford,GT,14.1252,Manual,7,RWD,3.5,6,Two Seater,Y,Turbo,Premium,None,N
+Mercedes-Benz,SLC300,26.6861,Automatic,9,RWD,2,4,Two Seater,Y,Turbo,Premium,None,Y
+Roush Performance,Stage 3 Mustang,14.2443,Automatic,10,RWD,5,8,Subcompact,Y,Super,Premium,None,N
+Dodge,Challenger,19.062,Automatic,8,RWD,5.7,8,Midsize,N,Natural,Mid,None,N
+Dodge,Challenger,17.9612,Manual,6,RWD,5.7,8,Midsize,N,Natural,Premium,None,N
+Nissan,Kicks,33.1184,CVT,1,FWD,1.6,4,Midsize,N,Natural,Regular,None,N
+Chrysler,300,19.062,Automatic,8,RWD,5.7,8,Large,N,Natural,Mid,None,N
+Dodge,Charger,19.062,Automatic,8,RWD,5.7,8,Large,N,Natural,Mid,None,N
+Mercedes-Benz,Maybach S650,15.5665,Automatic,7,RWD,6,12,Large,N,Turbo,Premium,None,Y
+Mercedes-Benz,AMG S65,15.5264,Automatic,7,RWD,6,12,Large,N,Turbo,Premium,None,Y
+Honda,Fit,36.467,CVT,1,FWD,1.5,4,Sm St Wagon,Y,Natural,Regular,None,N
+Honda,Fit,33,CVT,7,FWD,1.5,4,Sm St Wagon,Y,Natural,Regular,None,N
+Honda,Fit,31,Manual,6,FWD,1.5,4,Sm St Wagon,Y,Natural,Regular,None,N
+Honda,Ridgeline FWD,21.8873,Automatic,9,FWD,3.5,6,Sm Pickup Truck,Y,Natural,Regular,None,Y
+Ram,1500 Classic 2WD,19.7182,Automatic,8,RWD,3.6,6,Std Pickup Truck,N,Natural,Regular,None,N
+Ram,1500 Classic 2WD,17.3529,Automatic,8,RWD,5.7,8,Std Pickup Truck,N,Natural,Mid,None,N
+Honda,Ridgeline AWD,20.5738,Automatic,9,AWD,3.5,6,Std Pickup Truck,Y,Natural,Regular,None,N
+Ram,1500 Classic 4WD,18.72,Automatic,8,4WD,3.6,6,Std Pickup Truck,N,Natural,Regular,None,N
+Ram,1500 Classic 4WD,16.8732,Automatic,8,4WD,5.7,8,Std Pickup Truck,N,Natural,Mid,None,N
+Buick,Encore GX FWD,30.7314,CVT,1,FWD,1.3,3,Sm SUV,Y,Turbo,Regular,None,Y
+Buick,Encore GX AWD,27.5574,Automatic,9,AWD,1.3,3,Sm SUV,Y,Turbo,Regular,None,Y
+Jeep,Wrangler Unlimited 4WD,24.7211,Automatic,8,4WD,3,6,Sm SUV,N,Turbo,Diesel,Diesel,Y
+Bentley,Continental GT Convertible,14.6616,Manual,8,AWD,6,12,Minicompact,Y,Turbo,Premium,None,Y
+Porsche,911 Carrera,20,Manual,8,RWD,3,6,Minicompact,Y,Turbo,Premium,None,Y
+Porsche,911 Carrera Cabriolet,19.6342,Manual,8,RWD,3,6,Minicompact,Y,Turbo,Premium,None,Y
+Porsche,911 Carrera S,20.4606,Manual,7,RWD,3,6,Minicompact,Y,Turbo,Premium,None,Y
+Porsche,911 Carrera S Cabriolet,20,Manual,7,RWD,3,6,Minicompact,Y,Turbo,Premium,None,Y
+Porsche,911 Carrera 4,20,Manual,8,AWD,3,6,Minicompact,Y,Turbo,Premium,None,Y
+Porsche,911 Carrera 4 Cabriolet,20,Manual,8,AWD,3,6,Minicompact,Y,Turbo,Premium,None,Y
+Porsche,911 Carrera 4S,20,Manual,7,AWD,3,6,Minicompact,Y,Turbo,Premium,None,Y
+Porsche,911 Carrera 4S Cabriolet,20.1774,Manual,7,AWD,3,6,Minicompact,Y,Turbo,Premium,None,Y
+Bentley,Continental GT,14.9951,Manual,8,AWD,6,12,Subcompact,Y,Turbo,Premium,None,Y
+Mercedes-Benz,AMG CLA35 4matic,25.087,Manual,7,4WD,2,4,Compact,Y,Turbo,Premium,None,Y
+Bentley,Flying Spur,14.6616,Manual,8,AWD,6,12,Midsize,Y,Turbo,Premium,None,Y
+Volkswagen,Arteon,25.0272,Automatic,8,FWD,2,4,Sm St Wagon,Y,Turbo,Premium,None,Y
+Volkswagen,Arteon 4motion,23.4414,Automatic,8,AWD,2,4,Sm St Wagon,Y,Turbo,Premium,None,Y
+Roush Performance,F150 Pickup 2WD,12.6756,Automatic,10,RWD,5,8,Std Pickup Truck,N,Super,Premium,None,N
+Roush Performance,F150 Pickup 4WD,12.6756,Automatic,10,4WD,5,8,Std Pickup Truck,N,Super,Premium,None,N
+Dodge,Grand Caravan,19.9421,Automatic,6,FWD,3.6,6,Minivan,N,Natural,Regular,None,N
+Mazda,CX-30 4WD,26.4924,Automatic,6,4WD,2.5,4,Sm SUV,Y,Natural,Regular,None,N
+Mazda,CX-30 4WD,27.4937,Automatic,6,4WD,2.5,4,Sm SUV,Y,Natural,Regular,None,N
+Land Rover,Range Rover Sport MHEV,20.8528,Automatic,8,4WD,3,6,Std SUV,Y,Turbo,Premium,Hybrid,Y
+Volkswagen,Jetta,34.0525,Automatic,8,FWD,1.4,4,Compact,Y,Turbo,Regular,None,Y
+Volkswagen,Jetta,34.0383,Manual,6,FWD,1.4,4,Compact,Y,Turbo,Regular,None,N
+Volkswagen,Golf,31.5797,Automatic,8,FWD,1.4,4,Compact,Y,Turbo,Regular,None,Y
+Volkswagen,Golf,30.9111,Manual,6,FWD,1.4,4,Compact,Y,Turbo,Regular,None,N
+Lincoln,Continental Coach,18.5922,Automatic,6,AWD,3,6,Large,Y,Turbo,Regular,None,N
+Chevrolet,Silverado 4WD TrailBoss,17.2535,Automatic,10,4WD,6.2,8,Std Pickup Truck,Y,Natural,Premium,None,Y
+Chevrolet,Silverado 4WD TrailBoss,15.4336,Automatic,10,4WD,6.2,8,Std Pickup Truck,Y,Natural,Premium,None,Y
+Mazda,MX-5,29.0373,Manual,6,RWD,2,4,Two Seater,Y,Natural,Premium,None,N
+Mazda,MX-5,29.7239,Automatic,6,RWD,2,4,Two Seater,Y,Natural,Premium,None,N
+Kia,Cadenza,23.3243,Automatic,8,FWD,3.3,6,Large,Y,Natural,Regular,None,N
+Buick,Encore GX FWD,27.9466,CVT,1,FWD,1.2,3,Sm SUV,Y,Turbo,Regular,None,Y
+Dodge,Journey,21.1431,Automatic,4,FWD,2.4,4,Sm SUV,N,Natural,Regular,None,N
+BMW,X5 M,15.0983,Automatic,8,AWD,4.4,8,Std SUV,Y,Turbo,Premium,None,Y
+BMW,X5 M Competition,15.0983,Automatic,8,AWD,4.4,8,Std SUV,Y,Turbo,Premium,None,Y
+BMW,X6 M,15.0983,Automatic,8,AWD,4.4,8,Std SUV,Y,Turbo,Premium,None,Y
+BMW,X6 M Competition,15.0983,Automatic,8,AWD,4.4,8,Std SUV,Y,Turbo,Premium,None,Y
+Audi,A8 L,23.0643,Automatic,8,AWD,3,6,Large,Y,Turbo,Premium,Plug-in Hybrid,Y
+Audi,Q5,26.5403,Manual,7,AWD,2,4,Sm SUV,Y,Turbo,Premium,Plug-in Hybrid,Y
+Mazda,2,34.0784,Manual,6,FWD,1.5,4,Compact,Y,Natural,Regular,None,N
+Mazda,2,34.9351,Automatic,6,FWD,1.5,4,Compact,Y,Natural,Regular,None,N
+Nissan,Titan 2WD,18.1693,Automatic,9,RWD,5.6,8,Std Pickup Truck,Y,Natural,Premium,None,N
+Nissan,Titan 4WD,17.7971,Automatic,9,PT 4WD,5.6,8,Std Pickup Truck,Y,Natural,Premium,None,N
+Nissan,Titan 4WD PRO4X,17,Automatic,9,PT 4WD,5.6,8,Std Pickup Truck,Y,Natural,Premium,None,N
+Volkswagen,Atlas,19.211,Automatic,8,FWD,3.6,6,Sm SUV,Y,Natural,Regular,None,Y
+Volkswagen,Atlas Cross Sport,19.211,Automatic,8,FWD,3.6,6,Sm SUV,Y,Natural,Regular,None,Y
+Jeep,Wrangler 4WD,21.4822,Automatic,8,4WD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Volkswagen,Atlas Cross Sport 4motion,18.5818,Automatic,8,AWD,3.6,6,Sm SUV,Y,Natural,Regular,None,Y
+Volkswagen,Atlas 4motion,18.5818,Automatic,8,AWD,3.6,6,Std SUV,Y,Natural,Regular,None,Y
+Chevrolet,Corvette,18.9269,Automatic,8,RWD,6.2,8,Two Seater,Y,Natural,Premium,None,N
+Mercedes-Benz,AMG A35 4matic,26.5615,Manual,7,4WD,2,4,Subcompact,Y,Turbo,Premium,None,Y
+BMW,228i xDrive Gran Coupe,26.6667,Automatic,8,AWD,2,4,Compact,Y,Turbo,Premium,None,Y
+BMW,M235i xDrive,26.1835,Automatic,8,AWD,2,4,Compact,Y,Turbo,Premium,None,Y
+Cadillac,CT4,23.6864,Automatic,10,RWD,2.7,4,Compact,Y,Turbo,Premium,None,Y
+Cadillac,CT4 AWD,23.1948,Automatic,10,AWD,2.7,4,Compact,Y,Turbo,Premium,None,Y
+Cadillac,CT4 V AWD,23.1948,Automatic,10,AWD,2.7,4,Compact,Y,Turbo,Premium,None,Y
+Cadillac,CT4 AWD,25.9339,Automatic,8,AWD,2,4,Compact,Y,Turbo,Premium,None,Y
+Cadillac,CT4,27.159300000000002,Automatic,8,RWD,2,4,Compact,Y,Turbo,Premium,None,Y
+Cadillac,CT5 AWD,20.5169,Automatic,10,AWD,3,6,Midsize,Y,Turbo,Premium,None,Y
+Cadillac,CT5 V AWD,20,Automatic,10,AWD,3,6,Midsize,Y,Turbo,Premium,None,Y
+Cadillac,CT5,21.4176,Automatic,10,RWD,3,6,Midsize,Y,Turbo,Premium,None,Y
+Cadillac,CT5 V,21.4176,Automatic,10,RWD,3,6,Midsize,Y,Turbo,Premium,None,Y
+Nissan,Sentra,33.1338,CVT,1,FWD,2,4,Midsize,Y,Natural,Regular,None,N
+Nissan,Sentra SR,31.8639,CVT,1,FWD,2,4,Midsize,Y,Natural,Regular,None,N
+Hyundai,Sonata Hybrid,47.2269,Manual,6,FWD,2,4,Large,Y,Natural,Regular,Hybrid,Y
+Hyundai,Sonata Hybrid Blue,51.8655,Manual,6,FWD,2,4,Large,Y,Natural,Regular,Hybrid,Y
+Toyota,Highlander Hybrid,35.8587,CVT,6,FWD,2.5,4,Sm SUV,Y,Natural,Regular,Hybrid,Y
+Toyota,Highlander Hybrid AWD,34.9824,CVT,6,AWD,2.5,4,Std SUV,Y,Natural,Regular,Hybrid,Y
+Toyota,Highlander Hybrid AWD LTD/PLAT,35.0205,CVT,6,AWD,2.5,4,Std SUV,Y,Natural,Regular,Hybrid,Y
+Honda,Clarity Plug-in Hybrid,42.1053,CVT,1,FWD,1.5,4,Midsize,N,Natural,Regular,Plug-in Hybrid,Y
+Cadillac,CT4 V,23,Automatic,10,RWD,2.7,4,Compact,Y,Turbo,Premium,None,Y
+Porsche,Cayenne Coupe,20.2475,Automatic,8,AWD,3,6,Std SUV,Y,Turbo,Premium,None,Y
+Porsche,Cayenne S Coupe,19.1192,Automatic,8,AWD,2.9,6,Std SUV,Y,Turbo,Premium,None,Y
+Porsche,Cayenne Turbo Coupe,16.5714,Automatic,8,AWD,4,8,Std SUV,Y,Turbo,Premium,None,Y
+Honda,Civic 5Dr,24.5785,Manual,6,FWD,2,4,Large,Y,Turbo,Premium,None,N
+Honda,CR-V AWD,38.1714,CVT,1,AWD,2,4,Sm SUV,N,Natural,Regular,Hybrid,Y
+Porsche,Macan GTS,19.2975,Manual,7,AWD,2.9,6,Sm SUV,Y,Turbo,Premium,None,Y
+Porsche,Macan Turbo,19.1612,Manual,7,AWD,2.9,6,Sm SUV,Y,Turbo,Premium,None,Y
+Audi,RS Q8,15.2575,Automatic,8,AWD,4,8,Std SUV,Y,Turbo,Premium,Hybrid,Y
+Toyota,Camry AWD LE/SE,28.5883,Automatic,8,AWD,2.5,4,Midsize,Y,Natural,Regular,None,N
+Toyota,Camry AWD XLE/XSE,28,Automatic,8,AWD,2.5,4,Midsize,Y,Natural,Regular,None,N
+Ford,F150 Pickup 2WD,24.2231,Automatic,10,RWD,3,6,Std Pickup Truck,N,Turbo,Diesel,Diesel,Y
+Ford,F150 2WD BASE PAYLOAD LT TIRE,24.2231,Automatic,10,RWD,3,6,Std Pickup Truck,N,Turbo,Diesel,Diesel,Y
+Ford,F150 Pickup 4WD XL/XLT,23.6588,Automatic,10,PT 4WD,3,6,Std Pickup Truck,N,Turbo,Diesel,Diesel,Y
+Ford,F150 Pickup 4WD,21.8271,Automatic,10,PT 4WD,3,6,Std Pickup Truck,N,Turbo,Diesel,Diesel,Y
+BMW,X3 xDrive30e,23.7073,Automatic,8,AWD,2,4,Sm SUV,Y,Turbo,Premium,Plug-in Hybrid,Y
+Mercedes-Benz,S560e,22.8263,Automatic,9,RWD,3,6,Large,Y,Turbo,Premium,Plug-in Hybrid,Y
+BMW,M2 CS Coupe,19.5165,Manual,6,RWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+BMW,M2 CS Coupe,18.7179,Manual,7,RWD,3,6,Subcompact,Y,Turbo,Premium,None,Y
+Audi,SQ7,17.1357,Automatic,8,AWD,4,8,Std SUV,Y,Turbo,Premium,None,Y
+Audi,SQ8,17.0474,Automatic,8,AWD,4,8,Std SUV,Y,Turbo,Premium,None,Y
+Bentley,Bentayga,18.7319,Automatic,8,AWD,3,6,Std SUV,Y,Turbo,Premium,Plug-in Hybrid,Y

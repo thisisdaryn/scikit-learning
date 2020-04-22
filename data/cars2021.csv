@@ -1,0 +1,56 @@
+make,model,mpg,transmission,gears,drive,disp,cyl,class,sidi,aspiration,fuel,atvType,startStop
+Kia,Seltos FWD,31.2913,CVT,8,FWD,2,4,Sm SUV,N,Natural,Regular,None,Y
+Kia,Seltos AWD,27.0347,Manual,7,AWD,1.6,4,Sm SUV,Y,Turbo,Regular,None,Y
+Kia,Seltos AWD,28.542,CVT,8,AWD,2,4,Sm SUV,N,Natural,Regular,None,Y
+Jaguar,F-Type S Coupe,21.8371,Automatic,8,RWD,3,6,Two Seater,Y,Super,Premium,None,Y
+Jaguar,F-Type S Convertible,21.8371,Automatic,8,RWD,3,6,Two Seater,Y,Super,Premium,None,Y
+Jaguar,F-Type S AWD Coupe,20.8635,Automatic,8,AWD,3,6,Two Seater,Y,Super,Premium,None,Y
+Jaguar,F-Type S AWD Convertible,20.8635,Automatic,8,AWD,3,6,Two Seater,Y,Super,Premium,None,Y
+Jaguar,F-Type R AWD Coupe,18.4489,Automatic,8,AWD,5,8,Two Seater,Y,Super,Premium,None,Y
+Jaguar,F-Type R AWD Convertible,18.4489,Automatic,8,AWD,5,8,Two Seater,Y,Super,Premium,None,Y
+Volkswagen,Atlas,19.211,Automatic,8,FWD,3.6,6,Sm SUV,Y,Natural,Regular,None,Y
+Volkswagen,Atlas 4motion,18.1798,Automatic,8,AWD,3.6,6,Std SUV,Y,Natural,Regular,None,Y
+Genesis,G70 AWD,23.0078,Automatic,8,AWD,2,4,Compact,Y,Turbo,Premium,None,Y
+Genesis,G70 RWD,24.8489,Automatic,8,RWD,2,4,Compact,Y,Turbo,Premium,None,Y
+Genesis,G70 RWD,21.6779,Manual,6,RWD,2,4,Compact,Y,Turbo,Premium,None,N
+Kia,Soul,29.8116,CVT,1,FWD,2,4,Sm St Wagon,N,Natural,Regular,None,Y
+Kia,Soul Eco dynamics,31.3493,CVT,1,FWD,2,4,Sm St Wagon,N,Natural,Regular,None,Y
+Kia,Soul,27.0504,Manual,6,FWD,2,4,Sm St Wagon,N,Natural,Regular,None,N
+Kia,Soul,28.8021,Manual,7,FWD,1.6,4,Sm St Wagon,Y,Turbo,Regular,None,Y
+Volkswagen,Atlas,22.2209,Automatic,8,FWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
+Chevrolet,Trailblazer AWD,28.2075,Automatic,9,AWD,1.3,3,Sm SUV,Y,Turbo,Regular,None,Y
+Genesis,G70 AWD,19.5855,Automatic,8,AWD,3.3,6,Compact,Y,Turbo,Premium,None,N
+Genesis,G70 RWD,20.0929,Automatic,8,RWD,3.3,6,Compact,Y,Turbo,Premium,None,N
+Buick,Encore GX FWD,29.4614,CVT,1,FWD,1.2,3,Sm SUV,Y,Turbo,Regular,None,Y
+Chevrolet,Trailblazer FWD,30.7818,CVT,1,FWD,1.3,3,Sm SUV,Y,Turbo,Regular,None,Y
+Chevrolet,Trailblazer FWD,29.4559,CVT,1,FWD,1.2,3,Sm SUV,Y,Turbo,Regular,None,Y
+MINI,Cooper Convertible,31.4709,Manual,7,FWD,1.5,3,Minicompact,Y,Turbo,Premium,None,Y
+MINI,Cooper S Convertible,28.9208,Manual,7,FWD,2,4,Minicompact,Y,Turbo,Premium,None,N
+MINI,Cooper S Convertible,26.2664,Manual,6,FWD,2,4,Minicompact,Y,Turbo,Premium,None,N
+MINI,John Cooper Works Convertible,28.2052,Automatic,8,FWD,2,4,Minicompact,Y,Turbo,Premium,None,Y
+MINI,Cooper Hardtop 2 door,31.4709,Manual,7,FWD,1.5,3,Subcompact,Y,Turbo,Premium,None,Y
+MINI,Cooper Hardtop 4 door,31.4709,Manual,7,FWD,1.5,3,Subcompact,Y,Turbo,Premium,None,Y
+MINI,Cooper S Hardtop 2 door,26.8028,Manual,6,FWD,2,4,Subcompact,Y,Turbo,Premium,None,N
+MINI,Cooper S Hardtop 4 door,26.8028,Manual,6,FWD,2,4,Subcompact,Y,Turbo,Premium,None,N
+MINI,John Cooper Works Hardtop,28.909,Automatic,8,FWD,2,4,Subcompact,Y,Turbo,Premium,None,N
+MINI,John Cooper Works Hardtop,26.8028,Manual,6,FWD,2,4,Subcompact,Y,Turbo,Premium,None,N
+MINI,John Cooper Works GP,26.3043,Automatic,8,FWD,2,4,Subcompact,Y,Turbo,Premium,None,N
+Honda,Insight Touring,47.975,CVT,1,FWD,1.5,4,Midsize,N,Natural,Regular,Hybrid,Y
+Hyundai,Veloster,29.847,Automatic,6,FWD,2,4,Compact,N,Natural,Regular,None,N
+Hyundai,Veloster,28.2369,Manual,6,FWD,2,4,Compact,N,Natural,Regular,None,N
+Hyundai,Veloster,30.2742,Manual,7,FWD,1.6,4,Compact,Y,Turbo,Regular,None,N
+Hyundai,Veloster,28.9551,Manual,6,FWD,1.6,4,Compact,Y,Turbo,Regular,None,N
+Honda,Insight,51.9827,CVT,1,FWD,1.5,4,Midsize,N,Natural,Regular,Hybrid,Y
+BMW,750i xDrive,19.3495,Automatic,8,AWD,4.4,8,Large,Y,Turbo,Premium,None,Y
+BMW,Alpina B7,19.3495,Automatic,8,AWD,4.4,8,Large,Y,Turbo,Premium,None,Y
+Chevrolet,Colorado 2WD,21.5306,Automatic,6,RWD,2.5,4,Sm Pickup Truck,Y,Natural,Regular,None,N
+Chevrolet,Colorado 2WD,20.8917,Automatic,8,RWD,3.6,6,Sm Pickup Truck,Y,Natural,Regular,None,N
+GMC,Canyon 2WD,21.5306,Automatic,6,RWD,2.5,4,Sm Pickup Truck,Y,Natural,Regular,None,N
+GMC,Canyon 2WD,20.8917,Automatic,8,RWD,3.6,6,Sm Pickup Truck,Y,Natural,Regular,None,N
+Chevrolet,Colorado 4WD,20.6155,Automatic,6,4WD,2.5,4,Sm Pickup Truck,Y,Natural,Regular,None,N
+Chevrolet,Colorado 4WD,19,Automatic,8,4WD,3.6,6,Sm Pickup Truck,Y,Natural,Regular,None,N
+Chevrolet,Colorado ZR2 4WD,17.3442,Automatic,8,4WD,3.6,6,Sm Pickup Truck,Y,Natural,Regular,None,N
+GMC,Canyon 4WD,20.6155,Automatic,6,4WD,2.5,4,Sm Pickup Truck,Y,Natural,Regular,None,N
+GMC,Canyon 4WD,19,Automatic,8,4WD,3.6,6,Sm Pickup Truck,Y,Natural,Regular,None,N
+Kia,Sedona,20.5276,Automatic,8,FWD,3.3,6,Minivan,Y,Natural,Regular,None,N
+Volkswagen,Atlas 4motion,21.5692,Automatic,8,AWD,2,4,Sm SUV,Y,Turbo,Regular,None,Y
