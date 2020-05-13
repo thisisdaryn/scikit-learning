@@ -1,0 +1,59 @@
+---
+title: "R Notebook"
+output:
+  html_document:
+    df_print: paged
+---
+
+
+
+```{r message = FALSE, warning = FALSE}
+library(tidyverse)
+chi_emps <- read_csv("https://raw.githubusercontent.com/thisisdaryn/data/master/ChicagoEmployees.csv")
+```
+
+```{r}
+report <- chi_emps %>% mutate(Dept = fct_lump(Department, 7)) %>% 
+                                group_by(Dept) %>%
+  summarise(`Employees` = n(),
+                                Salaried = sum(SalHour == "Salary"),
+                                `Avg Salary` = mean(AnnSalary, na.rm = TRUE),
+                                Hourly = sum(SalHour == "Hourly"),
+                                `Avg Hourly Rate` = mean(HourlyRate, na.rm = TRUE)) %>% 
+  ungroup() %>% arrange(Dept)
+
+report
+```
+
+
+```{r message = FALSE}
+library(dplyr)
+library(forcats)
+hourly <- filter(chi_emps, SalHour == "Hourly") %>%
+  mutate(Dept = fct_lump(Department, 7))
+salary <- filter(chi_emps, SalHour == "Salary") %>%
+  mutate(Dept = fct_lump(Department, 8))
+```
+
+```{r}
+library(ggplot2)
+
+ggplot(data = hourly,
+       aes(x = Dept,
+           y = HourlyRate)) + 
+  geom_boxplot()
+
+```
+
+
+
+```{r}
+ggplot(data = salary,
+       aes(x = AnnSalary)) + 
+  geom_density(position = "identity", alpha = 0.4) + 
+  geom_vline(xintercept = 100000, linetype = "dashed") + 
+  facet_wrap(~Dept) + theme_bw()
+```
+
+
+

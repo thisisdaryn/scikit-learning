@@ -1,0 +1,60 @@
+---
+title: "R Notebook"
+output:
+  html_document:
+    df_print: paged
+---
+
+
+
+```{r warning = FALSE, message=FALSE}
+library(tidyverse)
+library(forcats)
+cars<- read_csv("https://raw.githubusercontent.com/thisisdaryn/data/master/ML/cars2020.csv") %>%
+  mutate(make = fct_lump(make,9),
+         class = fct_lump(class,6))
+```
+
+
+```{r message = FALSE}
+library(dplyr)
+
+group_by(cars, make) %>% 
+  summarise(Models = n(), 
+            Automatic = sum(transmission == "Automatic"),
+            Manual = sum(transmission == "Manual"),
+            CVT = sum(transmission == "CVT")
+)
+
+```
+
+```{r}
+count(cars, make, class) %>% 
+  pivot_wider(names_from = "class", values_from = "n")
+
+```
+
+
+```{r}
+ggplot(data = cars,
+       aes(x = disp,
+           y = mpg)) + 
+  geom_point(alpha = 0.4) + facet_wrap(~transmission)
+```
+
+```{r}
+library(ggbeeswarm)
+
+cars <- filter(cars, make != "Other")
+
+ggplot(data = cars, 
+       aes(x = make,
+           y = mpg)) + 
+  geom_beeswarm(alpha = 0.8) + theme_bw()
+```
+```{r}
+ggplot(data = cars, aes(x = transmission,
+                            y = mpg)) + geom_boxplot()
+```
+
+
